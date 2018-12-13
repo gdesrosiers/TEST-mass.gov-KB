@@ -1,10 +1,6 @@
----
-description: "You can restrict access to your content until you're ready to publish\_it."
----
-
 # Restricted access
 
-### Summary
+## Summary
 
 If you’re working on content that should only be visible to a few people until you publish it, you can tell the CMS to restrict who can see it while the content is still in draft form. This resource will show you how to do this.
 
@@ -32,11 +28,11 @@ Add the users you want to have access to this content. Separate multiple users w
 
 ![](https://cdn-images-1.medium.com/max/800/1*bkrYNuTw55XhJlmfuA075g.png)
 
-### After your restricted content is published…
+## After your restricted content is published…
 
 …you can no longer restrict access to it. The content, as well as all future drafts, will be visible to all other users with access to edit.mass.gov. This will still be true if you archive a piece of published content. \(Tip: If you need to restrict who can see a future draft of published content, create an entirely new page. Then, when version 2 is ready to publish, archive version 1.\)
 
-### Was this resource helpful?
+## Was this article helpful?
 
-[Take this 1-minute survey and tell us if this resource was useful.](https://massgov.formstack.com/forms/resource_library_feedback?Article=Restricted_Access)
+[![Tell us what you think button](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJ04qJGAHkvdE13BfdG%2F-LSz77NBAwnSNpMPT3df%2F-LSz7xSmyKXltd4avaCt%2FKB%20survey%20button%20POC%202.png?alt=media&token=8d071cab-8b95-48a3-a332-13e3fc8d9f96)](https://massgov.formstack.com/forms/mass_gov_knowledge_base_feedback?article=restricted-access)
 

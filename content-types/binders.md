@@ -1,10 +1,6 @@
----
-description: Create long form reports and chapter books of law library content.
----
-
 # Binders
 
-### Summary
+## Summary
 
 The Binder ties related pages together. It includes a table of contents and other navigational tools that encourage users to read content in an order you set. Use a Binder to create long form reports, chapter books, or collections of content on a similar theme.
 
@@ -30,7 +26,9 @@ To save a draft of a Binder, you’ll need to:
 
 If your organization creates a lot Binders, you could also add them to a [manual list in a Curated List](curated-lists/). Please note that Binders will not appear in a manual list’s autocomplete field. You’ll need to copy and paste each Binder’s URL into a **List item’s** URL field.
 
-### The “Overview” tab: Your Binder’s cover page and table of contents
+## The Overview tab
+
+### Your Binder’s cover page and table of contents
 
 Binders create connections among your content. When you make a Binder, you’ll want to prepare users for what the collection as a whole is about. Think of the Binder as a cover page for the content it contains.
 
@@ -56,7 +54,7 @@ The Binder can also include downloads in the **appendix**:
 
 ![](https://cdn-images-1.medium.com/max/800/0*7cw7QgZeCuLHpO2m.)
 
-### How Binders help users navigate content
+## How Binders help users navigate content
 
 When users are reading through a Binder, its pages will have special navigation tools. At the top of each page in a Binder is an expandable table of contents:
 
@@ -70,7 +68,7 @@ At the bottom of the Binder, users will find a link to the next page and to the 
 
 There’s one situation where these tools won’t appear. If you add a page to multiple binders, and users find that page through search \(e.g. a search engine or the Mass.gov search\), the navigational tools won’t appear. However, if users find the same page from a Binder cover page, that Binder’s navigational tools will appear.
 
-### Was this resource helpful?
+## Was this article helpful?
 
-[Take this 1-minute survey and tell us if this resource was useful.](https://massgov.formstack.com/forms/resource_library_feedback?Article=Binders)
+[![Tell us what you think button](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJ04qJGAHkvdE13BfdG%2F-LSz77NBAwnSNpMPT3df%2F-LSz7xSmyKXltd4avaCt%2FKB%20survey%20button%20POC%202.png?alt=media&token=8d071cab-8b95-48a3-a332-13e3fc8d9f96)](https://massgov.formstack.com/forms/mass_gov_knowledge_base_feedback?article=binders)
 

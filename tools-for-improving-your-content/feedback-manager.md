@@ -1,18 +1,16 @@
----
-description: "Use the Feedback Manager to see and analyze what users think about your\_content."
----
-
 # Feedback Manager
 
-### Overview
+## Overview
 
 The Feedback Manager is a Mass.gov authoring tool that helps you track and analyze user feedback on your content. This feedback comes from the survey at the bottom of every Mass.gov page:
 
-![](https://cdn-images-1.medium.com/max/1000/0*6iN5t7QjQ6X-3n6_.)
+![](../.gitbook/assets/feedback_survey2_screenshot.png)
+
+![Users see this survey at the bottom of every Mass.gov page](../.gitbook/assets/feedback_survey_screenshot.png)
 
 You’ll also be able to tag your content’s user feedback. Tagging feedback helps train our machine learning program on how your feedback should be organized and labeled. In the future, we’ll be able to use machine learning to automatically tag user feedback for you.
 
-### **How it works**
+## **How it works**
 
 The Feedback Manager is embedded in the CMS. It includes user feedback from any page you are “watching.”
 
@@ -22,15 +20,15 @@ You are automatically assigned as a watcher for any page you’ve created or edi
 
 Please note that this is only the first iteration of the Feedback Manager. We’re excited to hear what features you’d like us to add to it and how you will use it so that we can improve it. You can [submit your comments to us via ServiceNow](https://medium.com/massdigital/using-servicenow-to-request-mass-gov-support-5611afb28252).
 
-### How to use
+## How to use
 
-#### **Step \#1: Find the Feedback Manager in the CMS**
+### **Step \#1: Find the Feedback Manager in the CMS**
 
 ![](https://cdn-images-1.medium.com/max/800/1*6brGFIicyEsVr5FUQGkmNg.png)
 
 Reminder: Only content you are watching will show up in the ‘Filter by Page.’
 
-#### **Step \#2: Select a page to see the feedback it has received**
+### **Step \#2: Select a page to see the feedback it has received**
 
 ![](https://cdn-images-1.medium.com/max/800/1*3LeSrXvBfbkZuis-ueMPJA.png)
 
@@ -42,7 +40,7 @@ You can also:
 
 It is also possible to filter _only_ by feedback tag or “Did you find” status. To do this, leave the **Filter by page** filter blank, and pick at least one option from **Filter by tag** or **Filter by “Did you find?” status.**
 
-#### **Step \#3 View feedback**
+### **Step \#3 View feedback**
 
 Once you’ve finishing picking your filters, you can begin reading your content’s feedback. From left to right, each row contains:
 
@@ -54,7 +52,7 @@ Once you’ve finishing picking your filters, you can begin reading your content
 
 ![](https://cdn-images-1.medium.com/max/800/1*_m-Ulh_g9-oFhljwJCBi1Q.png)
 
-#### **Step \#4 Add or remove tags**
+### **Step \#4 Add or remove tags**
 
 To add a tag, click the “Add tag” button:
 
@@ -78,7 +76,7 @@ To remove a tag, click the “Remove tag” link next to each:
 
 If you want to request a new tag, request it through ServiceNow.
 
-### How does tagging feedback benefit you?
+## How does tagging feedback benefit you?
 
 There are 2 reasons to tag your feedback. First, it is practical: On heavily-trafficked pages with a lot of feedback, tagging helps you organize that feedback, and to identify patterns in what users say. Then, you can make informed decisions about how to improve your content based on your user data.
 
@@ -90,7 +88,19 @@ The more data we give our machine learning program, the better it will be at rec
 
 Request a new one through ServiceNow.
 
-### Was this resource helpful?
+## In-page Feedback
 
-[Take this 1-minute survey and tell us if this resource was useful.](https://massgov.formstack.com/forms/resource_library_feedback?Article=Feedback_Manager)
+The Feedback view lets you see the verbatim feedback users submitted on a particular page. You can find this view on any Mass.gov page in the CMS.
+
+To see any page’s verbatim feedback, find the page in the CMS and click the “Feedback” tab in the right corner \(next to the Analytics tab\).
+
+![](https://lh3.googleusercontent.com/TIbgXVhLVix2pF7pw0828tF9hEByxpnuGP6HKtyZYiQ7iQF7R4L_t0ifZ5wtUFqBDrqqXL86OyHMwC7wiOYwWK8_zOc8xRhG7vzSyiqGrTjyacRG2dw7mRWCp4847zIYiCfUKfpr)
+
+This page will look a lot like the full Feedback Manager, showing all responses from the survey at the bottom of the page. Note: Currently, you can’t filter or tag feedback here so you’ll have to visit the Feedback Manager for that.
+
+![](https://lh5.googleusercontent.com/MiI0qeyP0iGXVTy1Yv2bunl8MTsOcws0pNvkemiiNiIy5Yji7KU8fXgFS-ZwJ71DRCUvZ_vZxBZGycyjpmZgSLZOu-oR85IYvDeV5D43pTUQ92yVhlm4rZ41zQQfgamIeU7khT80)
+
+## Was this article helpful?
+
+[![Tell us what you think button](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJ04qJGAHkvdE13BfdG%2F-LSz77NBAwnSNpMPT3df%2F-LSz7xSmyKXltd4avaCt%2FKB%20survey%20button%20POC%202.png?alt=media&token=8d071cab-8b95-48a3-a332-13e3fc8d9f96)](https://massgov.formstack.com/forms/mass_gov_knowledge_base_feedback?article=feedback-manager)
 

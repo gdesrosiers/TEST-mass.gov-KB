@@ -1,13 +1,6 @@
----
-description: >-
-  Create a page of lists, which can include Documents, Form pages, and law
-  library content. Lists can be automatically generated using labels, or you can
-  manually compile and order content
----
-
 # Links and documents
 
-### Summary
+## Summary
 
 The Curated List lets you create a page of 1 or more lists. You can include the following on Curated Lists:
 
@@ -27,7 +20,7 @@ Also, since working with Curated Lists often means working with documents, it mi
 
 If you plan to create a staff directory or something similar, learn how you can [use the Person and contacts subtype](directory-people-and-contacts-subtype.md).
 
-### Before you start
+## Before you start
 
 No matter what type of list you’re making, there are a couple of things to keep in mind before you create one in edit.mass.gov:
 
@@ -35,7 +28,7 @@ No matter what type of list you’re making, there are a couple of things to kee
 * For design and usability reasons, we don’t support including Service Details in Curated Lists. If you find yourself wanting to do this, there’s probably a better way to organize your content. We suggest you [sign up for a strategy session with the Digital Services content team](../../get-help-from-the-mass.gov-team/content-strategy-session.md) to work on your information architecture.
 * You can link to Curated Lists in 2 places: the **What You Need to Know** section of a Service Page, and the **Featured Services** section of an Organization Page. Before you create a list, consider where you plan to put it and how that will help your users.
 
-### The "Overview" tab
+## The Overview tab
 
 Use the overview to provide some context for your Curated List. Imagine a user landing on the page from a search engine. What context will they need to understand what’s on the page?
 
@@ -89,7 +82,7 @@ Use the manual list option to build a list of content that you haven’t labeled
 **Tip: Watch out for “blocks” of content**  
 You have the ability to upload multiple links or documents to manual lists at once. However, if you do upload several items at the same time, it will create a block of content. While you can reorder these blocks as a whole and the items within each block, you can’t move an individual item out of a block. If you need to order things differently, you may need to create more blocks. Keep that in mind while you upload items in case you need to have a document, then a link, then a document, etc.
 
-**How to display descriptions for each list item**
+#### **How to display descriptions for each list item**
 
 You may want each item in your list to include brief descriptions to help users understand what the item is and how they might use it.
 
@@ -101,11 +94,11 @@ You can also choose “Description from document item.” This will display what
 
 ![](https://cdn-images-1.medium.com/max/800/1*7cgpJ3JWSvtE4wvFKq2fVQ.png)
 
-**Tip: More on “blocks” of content** 
+#### **Tip: More on “blocks” of content** 
 
 If you’ve created a block of content \(see above\) in a manual list, the dropdown will apply to everything in that block. For example, if you upload 6 documents at the same time, and choose “none” for **description type**, then none of the items will appear with descriptions.
 
-### Was this resource helpful?
+## Was this article helpful?
 
-[Take this 1-minute survey and tell us if this resource was useful.](https://massgov.formstack.com/forms/resource_library_feedback?Article=Curated_Lists)
+[![Tell us what you think button](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJ04qJGAHkvdE13BfdG%2F-LSz77NBAwnSNpMPT3df%2F-LSz7xSmyKXltd4avaCt%2FKB%20survey%20button%20POC%202.png?alt=media&token=8d071cab-8b95-48a3-a332-13e3fc8d9f96)](https://massgov.formstack.com/forms/mass_gov_knowledge_base_feedback?article=links-and-documents)
 

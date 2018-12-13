@@ -1,4 +1,4 @@
-# How to write for Mass.gov
+# How to write for Mass.gov
 
 ### Principles for writing on Mass.gov
 
@@ -102,7 +102,7 @@ _Example 1:_
 
 > _**Active voice:**_ _You must submit the request form to the approving official._
 
-The active voice sentence focuses on the person who will submit the form. This person is entirely absent from the passive voice sentence! That feels impersonal — and can be confusing, too.
+The active voice sentence focuses on the person who will submit the form. This person is entirely absent from the passive voice sentence. That feels impersonal — and can be confusing, too.
 
 _Example 2:_
 
@@ -168,7 +168,7 @@ Using contractions helps make written language sound more like spoken language. 
 
 These are just the basic principles we’re following as we write content for the new Mass.gov. We’re always working on improving and adding to them to create useful resources for you, our colleagues and content authors. Look for updates to this document. If you have questions about these principles, specific challenges you face writing content for your organization, or any of the other resources we’ve provided, please reach out.
 
-### Was this resource helpful?
+## Was this article helpful?
 
-[Take this 1-minute survey and tell us if this resource was useful.](https://massgov.formstack.com/forms/resource_library_feedback?Article=HowToWriteForMass)
+[![Tell us what you think button](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJ04qJGAHkvdE13BfdG%2F-LSz77NBAwnSNpMPT3df%2F-LSz7xSmyKXltd4avaCt%2FKB%20survey%20button%20POC%202.png?alt=media&token=8d071cab-8b95-48a3-a332-13e3fc8d9f96)](https://massgov.formstack.com/forms/mass_gov_knowledge_base_feedback?article=how-to-write-for-massgov)
 

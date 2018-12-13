@@ -1,16 +1,10 @@
----
-description: >-
-  Learn why you should add Legacy Redirects for content your not recreating, and
-  how to use them with content that doesn't match.
----
-
 # Why redirects are important
 
 One of the biggest parts of the migration to the new Mass.gov is the redirects process. In this resource, you’ll learn how and why to redirect your old pages — even those with content you’re not recreating.
 
 [Need to know what a Legacy Redirect is?](../content-types/legacy-redirects.md)
 
-### Using Redirects with content that doesn’t match
+## Using Redirects with content that doesn’t match
 
 _Takeaway: Direct old pages that don’t have matches to “higher-level” new pages, such as a topic or a service._
 
@@ -20,20 +14,20 @@ For example, let’s say you used to have one very long page on tax information.
 
 Redirecting this way helps you predict which pages users will begin their sessions on. Then, you can design these beginning pages as landing pages. If you know the first step in a user’s journey, you can imagine the paths they might take. Then, you can work on making each path easy to navigate.
 
-### Why you should redirect content you’re not recreating on the new Mass.gov
+## Why you should redirect content you’re not recreating on the new Mass.gov
 
 * Your old, out-of-date content can still show up on search engines.
 * Pages on the old site are valuable for their rank in search engines. Redirecting old pages lets us take advantage of those search engine rankings. Then, we can compare how the new and old sites perform.
 
 **For example,** let’s say you have a lot of old content about a program for homeowners that’s been discontinued. You should still redirect those pages — [**perhaps to the Housing & Property Topic**](https://www.mass.gov/topics/housing-property) — to divert traffic from the old pages.\]
 
-### **A few other things to keep in mind**
+## **A few other things to keep in mind**
 
 * **Know the relationship** —You can redirect multiple Percussion pages to the same page on the new site, but you can’t redirect one Percussion page to multiple new pages.
 * **Avoid creating loops** — When creating redirects, make sure the page on the new site does not include hyperlinks back to the same classic Mass.gov page that you’re redirecting from. This can create an endless redirect loop that results in an error message.
 * **Make a plan** — Before you create redirects, map out how you’re going to redirect classic Mass.gov pages. Consider the best page on the new site to link to, make sure you’re not creating redirect loops, and review your plan before acting on it.
 
-### Was this resource helpful?
+## Was this article helpful?
 
-[Take this 1-minute survey and tell us if this resource was useful.](https://massgov.formstack.com/forms/resource_library_feedback?Article=WhyLegacyRedirects)
+[![Tell us what you think button](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJ04qJGAHkvdE13BfdG%2F-LSz77NBAwnSNpMPT3df%2F-LSz7xSmyKXltd4avaCt%2FKB%20survey%20button%20POC%202.png?alt=media&token=8d071cab-8b95-48a3-a332-13e3fc8d9f96)](https://massgov.formstack.com/forms/mass_gov_knowledge_base_feedback?article=why-redirects-are-important)
 

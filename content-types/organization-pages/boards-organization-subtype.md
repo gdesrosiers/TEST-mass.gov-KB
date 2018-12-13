@@ -1,22 +1,18 @@
----
-description: Learn about the Boards subtype on Organization Pages.
----
-
 # Boards
 
-### **Summary**
+## **Summary**
 
-The Board is a subtype of Organization page that highlights the members of a board, commission, or committee. When you choose the “Board” subtype, you’ll see a new tab called “Boards,” where you’ll find the features that this resource covers.
+The Board is a subtype of the Organization Page that highlights the members of a board, commission, or committee. When you choose the “Board” subtype, you’ll see a new tab called “Boards,” where you’ll find the features that this resource covers.
 
 **Note:** Before you begin adding board members, make sure you’ve created the right [Person](../person-items.md) items. The **Board** **Members** section of a Board page gets its information from Person items.
 
-### "Boards" tab
+## Boards tab
 
-#### Heading
+### Heading
 
 Say what the group’s members are called: Board members, Commission members, Commissioners, etc.
 
-#### **Featured Board Members**
+### **Featured Board Members**
 
 There are 2 sections where you can add board members: “Featured Board Members” and “Board Members.” Images for "Featured Board Members" are larger than the others.
 
@@ -26,7 +22,7 @@ In each board member’s **Board Role** field, enter the board member’s role/j
 
 ![](https://cdn-images-1.medium.com/max/800/0*oOL19GCJxNzlAdyl)
 
-#### Vacant positions
+### Vacant positions
 
 If a particular role is currently vacant, you can check the **Position Is Vacant** box.
 
@@ -39,4 +35,8 @@ If a particular role is currently vacant, you can check the **Position Is Vacant
 You may add as many board members as you need, but by default, only the first 8 members, including the 2 featured, will appear on the Org page. Users will have the option to expand the list by clicking “Show all members.”
 
 ![Click &#x201C;Show all members&#x201D; to expand section to display all members.](https://cdn-images-1.medium.com/max/800/0*yC5Q-lT78-Rkaf6R)
+
+## Was this article helpful?
+
+[![Tell us what you think button](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJ04qJGAHkvdE13BfdG%2F-LSz77NBAwnSNpMPT3df%2F-LSz7xSmyKXltd4avaCt%2FKB%20survey%20button%20POC%202.png?alt=media&token=8d071cab-8b95-48a3-a332-13e3fc8d9f96)](https://massgov.formstack.com/forms/mass_gov_knowledge_base_feedback?article=boards)
 

@@ -1,20 +1,13 @@
----
-description: >-
-  Redirect web traffic from an old (legacy) URL to a new Mass.gov page.
-  Redirects also make sure old, obsolete content doesn’t appear in search engine
-  results.
----
-
 # Legacy Redirects
 
-### Summary
+## Summary
 
 A redirect directs web traffic from one URL to another. In the Mass.gov CMS, redirects are called Legacy Redirects, since they direct visitors from our legacy URLs to one of our new URLs. To create a Redirect, you’ll need to know:
 
-* The legacy URL \(or URLs\) you want to redirect to your new Mass.gov page.
-* The title of your new Mass.gov page.
+* The legacy URL \(or URLs\) you want to redirect to your new Mass.gov page
+* The title of your new Mass.gov page
 
-### How to create a redirect
+## How to create a redirect
 
 1. Find Legacy Redirect in the **Add Content** menu.
 
@@ -32,13 +25,13 @@ Then, when you’re ready, publish the page. Expect 1–2 hours before you can s
 
 ### Need to see it to learn it?
 
-{% embed data="{\"url\":\"https://www.youtube.com/watch?v=i5KtbZ\_1nv8\",\"type\":\"video\",\"title\":\"Mass.gov CMS Training: Redirects\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/i5KtbZ\_1nv8/maxresdefault.jpg\",\"width\":1280,\"height\":720,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/i5KtbZ\_1nv8?rel=0&showinfo=0\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\\"><iframe src=\\\"https://www.youtube.com/embed/i5KtbZ\_1nv8?rel=0&amp;showinfo=0\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.7778}}" %}
+{% embed url="https://www.youtube.com/watch?v=i5KtbZ\_1nv8" %}
 
-### Redirects are an important part of your content strategy
+## Redirects are an important part of your content strategy
 
 {% page-ref page="../mass.gov-style/why-redirects-are-important.md" %}
 
-### Was this resource helpful?
+## Was this article helpful?
 
-[Take this 1-minute survey and tell us if this resource was useful.](https://massgov.formstack.com/forms/resource_library_feedback?Article=Legacy_Redirects)
+[![Tell us what you think button](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJ04qJGAHkvdE13BfdG%2F-LSz77NBAwnSNpMPT3df%2F-LSz7xSmyKXltd4avaCt%2FKB%20survey%20button%20POC%202.png?alt=media&token=8d071cab-8b95-48a3-a332-13e3fc8d9f96)](https://massgov.formstack.com/forms/mass_gov_knowledge_base_feedback?article=legacy-redirects)
 

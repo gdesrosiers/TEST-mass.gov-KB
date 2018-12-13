@@ -1,10 +1,6 @@
----
-description: Explain or give an overview of a complicated process or service.
----
-
 # Guides
 
-### Summary
+## Summary
 
 Guides offer an overview of a complicated process or service. They’re especially useful if the process involves multiple organizations. Examples of Guides include:
 
@@ -28,7 +24,7 @@ A Guide _might_ work for an FAQ — but only in situations where your audien
 
 However, you should avoid using Guides to address questions about _all_ your organization’s application processes. Dumping lots of information into a single page creates a frustrating experience for users, who have to scroll or hunt for what they want to find.
 
-#### **Required fields and where to link**
+### **Required fields and where to link**
 
 To save a draft of your Guide, you’ll need to author/add:
 
@@ -47,15 +43,15 @@ The best places to link Guides are:
 
 If you’re using a Guide because you’re struggling with long form content, consider contacting the Digital Services team for support, or [sign up for a Content Strategy session with the Mass.gov Content team](../get-help-from-the-mass.gov-team/content-strategy-session.md).
 
-### The "Overview" tab
+## The Overview tab
 
-#### Title and Guide intro
+### Title and Guide intro
 
 The **Title** and **Guide intro** will be the first things your visitors see. In fact, they’ll often see them before they see your page, because these fields will appear in search engine results. 
 
 In the intro, offer a brief, high-level overview of what information can be found in the Guide. It’s important they be written clearly and in plain language. Try to write them using the words you think your audience would enter into a search engine to find them.
 
-#### Header image
+### Header image
 
 The **Header image** should be at least 1600x400 pixels. Like all Mass.gov images, it will adjust to the size of the user’s browser or screen.
 
@@ -63,7 +59,7 @@ You can adjust the focal point to make sure the right part of the image remains 
 
 ![](https://cdn-images-1.medium.com/max/1000/1*JIu-zYf7UcgUhsuWtX4ZDw.jpeg)
 
-### The "Sections" tab
+## The Sections tab
 
 Most of your information will be contained in sections. As a general rule, none of your Guide’s sections should be too detailed. Instead, summarize each topic and link users to more detailed How-to or Service Detail pages. We recommend that Guides include at least 3 sections, but not more than 8.
 
@@ -71,27 +67,29 @@ You can create a 1-column or 3-column section. You may only add Contact Informat
 
 
 
-![Example of a 1-column guide section](https://cdn-images-1.medium.com/max/800/1*gjaMpobXTxZH9PfH1VrlZQ.jpeg)
+![](../.gitbook/assets/guide_contact_screenshot%20%281%29.png)
 
 Each time you create a section, its title will appear in your Guide’s table of contents:
 
 ![](https://cdn-images-1.medium.com/max/800/1*IEvcq0P02K2EHhNNUV-6CQ.jpeg)
 
-#### Time callout
+This is a "sticky" table of contents, meaning it will remain on the top of the screen as a user scrolls down the page.
+
+### Time callout
 
 Complete this if there is a consistent amount of time users should expect that task to take. Here’s what it will look like for users:
 
 
 
-![](https://cdn-images-1.medium.com/max/800/1*ZohoTkl2Kt6fsKMclRQ6yQ.jpeg)
+![](../.gitbook/assets/guides_time-callout_screenshot.png)
 
-#### Stats, alerts, and key actions
+### Stats, alerts, and key actions
 
 Use the stat field to highlight a takeaway statistic. Your section’s title and stat work together to make your guide scannable:
 
 
 
-![](https://cdn-images-1.medium.com/max/800/1*_71eLE0UML35_80GUUr-jA.jpeg)
+![](../.gitbook/assets/guide_stats_screenshot.png)
 
 **Alerts** can help emphasize important deadlines and reminders:
 
@@ -103,9 +101,9 @@ Use the **Key actions** to link users to more detailed pages, such as Service De
 
 
 
-![](https://cdn-images-1.medium.com/max/800/1*Ov4PPwAr4Y80Xj4yLm5IGw.jpeg)
+![](../.gitbook/assets/guides_key-actions_screenshot.png)
 
-### Was this resource helpful?
+## Was this article helpful?
 
-[Take this 1-minute survey and tell us if this resource was useful.](https://massgov.formstack.com/forms/resource_library_feedback?Article=Guides)
+[![Tell us what you think button](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJ04qJGAHkvdE13BfdG%2F-LSz77NBAwnSNpMPT3df%2F-LSz7xSmyKXltd4avaCt%2FKB%20survey%20button%20POC%202.png?alt=media&token=8d071cab-8b95-48a3-a332-13e3fc8d9f96)](https://massgov.formstack.com/forms/mass_gov_knowledge_base_feedback?article=guides)
 

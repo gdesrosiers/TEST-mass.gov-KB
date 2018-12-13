@@ -1,10 +1,6 @@
----
-description: "Learn how to get a link to an unpublished page that someone without a CMS login can\_access."
----
-
 # Temporary unpublished access
 
-### Summary
+## Summary
 
 Sometimes you need to show your unpublished content to somebody who does not have a Drupal login. Maybe you need a subject matter expert’s approval, or a supervisor’s. You can do this by giving your reviewer temporary acces_s_ to your unpublished page. This resource will show you how to do this.
 
@@ -36,7 +32,7 @@ Paste your link into an email \(or whatever medium you’re using to send it to 
 
 ![](https://cdn-images-1.medium.com/max/800/1*ADazfFIBh7jmYCUzvSgnHQ.png)
 
-### Was this resource helpful?
+## Was this article helpful?
 
-[Take this 1-minute survey and tell us if this resource was useful.](https://massgov.formstack.com/forms/resource_library_feedback?Article=Unpublished_Access)
+[![Tell us what you think button](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJ04qJGAHkvdE13BfdG%2F-LSz77NBAwnSNpMPT3df%2F-LSz7xSmyKXltd4avaCt%2FKB%20survey%20button%20POC%202.png?alt=media&token=8d071cab-8b95-48a3-a332-13e3fc8d9f96)](https://massgov.formstack.com/forms/mass_gov_knowledge_base_feedback?article=temporary-unpublished-access)
 

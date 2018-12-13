@@ -1,10 +1,6 @@
----
-description: "Learn how Contact Information works on Mass.gov, and how to author\_it."
----
-
 # Contact Information items
 
-### Summary
+## Summary
 
 When you author Contact Information on Mass.gov, you’re creating a chunk of information that you can add to these content types:
 
@@ -31,23 +27,23 @@ When you update your Contact Information, every page that includes that informat
 * For example: 200 North Road but 200 North St.
 * Phone number formatting: \(XXX\) XXX-XXXX
 
-### **Display and administrative title**
+## **Display and administrative title**
 
 The **display title** is what appears on the page. The **administrative title** is to help authors distinguish between contacts that use the same display title. For example, if you have 2 **display titles** that read “Department of Technology Services,” you could give them different **administrative** names so that you could tell them apart while in “editor” mode. Note: The admin title won’t be displayed to the public.
 
-### **The hours field**
+## **The hours field**
 
 If possible, you should use the **typical hours** field, even though it means selecting each day and time individually. This will help keep formatting uniform across Mass.gov, which contributes to a better user experience.
 
-### **Labels**
+## **Labels**
 
 Use the **Label\(s\)** field if you plan on using this Contact Information to build an [automatic list for a directory](../mass.gov-style/why-redirects-are-important.md).
 
-#### **Important! Create a unique labeling system**
+### **Important! Create a unique labeling system**
 
 Your organization’s content might be similar to another organization’s content. Creating distinct, descriptive labels ensures you’re only including the content you intend to have in a specific listing page. For example, maybe your labels include your organization acronym and a note about which list\(s\) you want them to appear on.
 
-### Was this resource helpful?
+## Was this article helpful?
 
-[Take this 1-minute survey and tell us if this resource was useful.](https://massgov.formstack.com/forms/resource_library_feedback?Article=Contact_Info)
+[![Tell us what you think button](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJ04qJGAHkvdE13BfdG%2F-LSz77NBAwnSNpMPT3df%2F-LSz7xSmyKXltd4avaCt%2FKB%20survey%20button%20POC%202.png?alt=media&token=8d071cab-8b95-48a3-a332-13e3fc8d9f96)](https://massgov.formstack.com/forms/mass_gov_knowledge_base_feedback?article=contact-information-items)
 

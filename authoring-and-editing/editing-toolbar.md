@@ -1,20 +1,14 @@
----
-description: >-
-  Learn how to use the editing toolbar (also known as the rich text editor or
-  the WYSIWYG editor).
----
-
 # Editing toolbar
 
-### Overview
+## Overview
 
 This resource will help you get the most out of the rich text editor — a tool that appears across Mass.gov content types.
 
 _Rich text_ means text that includes formatting. The rich text editor helps web authors format content without knowing a lot about HTML. Sometimes, you’ll hear rich text editors called WYSIWYG editors — What You See Is What You Get — because you’ll be able to see what your content will look like as you’re working on it.
 
-This resource covers each tool in the rich text editor. In the image, each tool is numbered from 1 to 15. Refer to the list below to learn what each does.
+This resource covers each tool in the rich text editor. In the image, each tool is numbered from 1 to 16. Refer to the list below to learn what each does.
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/download.jpg)
 
 ### 1. Bold
 
@@ -40,7 +34,7 @@ Creates an inline link to another web address. To use, highlight the text you wa
 
 **Note:** Using the link hotkey \(Ctrl+K on Windows machines, Cmd+K on Macs\) will not open the box with an autocomplete field. This box will still work if you copy and paste your link, but we suggest using the above method for all Mass.gov pages.
 
-**Important:** Don’t use this to link to documents. [If you need to link to documents, use the “Download link” tool \(\#6\)](documents/linking-to-documents.md#creating-inline-links-to-documents).
+**Important:** Don’t use this to link to documents. [If you need to link to documents, use the “Insert link to document” tool \(\#6\)](documents/linking-to-documents.md#creating-inline-links-to-documents).
 
 **Also important:** A good inline link includes enough text that users know where they’re going just by reading the link \(without the text around it\). Good example: [Learn more about wild turkeys](https://www.mass.gov/service-details/learn-about-turkeys). Bad example: [Click here](https://www.mass.gov/service-details/learn-about-turkeys).
 
@@ -48,9 +42,9 @@ Creates an inline link to another web address. To use, highlight the text you wa
 
  Remove an inline link. Does not delete the text itself.
 
-### 7. Link to a document
+### 7. Insert link to document
 
- Use this tool to link to a file. Need help? [Here’s a resource on using the Download Link tool.](documents/linking-to-documents.md#creating-inline-links-to-documents)
+ Use this tool to link to a file. Need help? [Here’s a resource on using the "Insert link to document" tool.](documents/linking-to-documents.md#creating-inline-links-to-documents)
 
 ### 8. Bulleted list
 
@@ -104,21 +98,25 @@ In general, Mass.gov “built in” headings — the headings that appear au
 
 ![](https://cdn-images-1.medium.com/max/800/1*U9he_fqUnGXaiffpfeu6pA.jpeg)
 
-### 14. Insert special character
+### 14. Maximize
+
+Maximize the 'Overview' box for a full screen view. Click the tool again to revert back to the original size. 
+
+### 15. Insert special character
 
 Allows you to insert characters you might not find on your keyboard, including letters with accents, fractions, and arrows.
 
 ![](https://cdn-images-1.medium.com/max/800/1*_VNtI5RQzHC4_pkV4-urwA.jpeg)
 
-### 15. Remove formatting
+### 16. Remove formatting
 
- Gets rid of any formatting that’s been applied to your text. This is useful for cutting out formatting that’s hitched a ride when you copy/paste, or changing formatted text that’s giving you trouble.
+Gets rid of any formatting that’s been applied to your text. This is useful for cutting out formatting that’s hitched a ride when you copy/paste, or changing formatted text that’s giving you trouble.
 
-### 16. Source
+### 17. Source
 
  Allows you to see your content’s formatting source code.
 
-### Was this resource helpful?
+## Was this article helpful?
 
-[Take this 1-minute survey and tell us if this resource was useful.](https://massgov.formstack.com/forms/resource_library_feedback?Article=Rich_text_editor)
+[![Tell us what you think button](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJ04qJGAHkvdE13BfdG%2F-LSz77NBAwnSNpMPT3df%2F-LSz7xSmyKXltd4avaCt%2FKB%20survey%20button%20POC%202.png?alt=media&token=8d071cab-8b95-48a3-a332-13e3fc8d9f96)](https://massgov.formstack.com/forms/mass_gov_knowledge_base_feedback?article=editing-toolbar)
 

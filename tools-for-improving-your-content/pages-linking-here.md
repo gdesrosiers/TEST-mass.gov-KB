@@ -1,12 +1,6 @@
----
-description: >-
-  Use this tool to prevent broken links and make sure your content is
-  interconnected.
----
-
 # Pages Linking Here
 
-### Summary
+## Summary
 
 “Pages Linking Here” is a content management system \(CMS\) tool that shows which pages link to a specific page or document.
 
@@ -20,37 +14,37 @@ This tool might feel familiar if you worked in the old Percussion CMS. Percussio
 
 Using “Pages Linking Here” differs slightly depending on whether you’re reviewing documents or non-document content.
 
-### **“Pages Linking Here” for \(HTML\) pages**
+## **“Pages Linking Here” for \(HTML\) pages**
 
 #### Step 1:
 
 Go to “My Content” or “All Content” to find the page you want to check.
 
-![](https://cdn-images-1.medium.com/max/800/0*1i_tuR3jvMAEQqg9)
+![](../.gitbook/assets/content-mass-gov-y.png)
 
 #### Step 2:
 
 Click either the title of a page on the left or the “Edit” button on the right.
 
-![](https://cdn-images-1.medium.com/max/800/0*HTYjocz3Fd6zj3sK)
+![](../.gitbook/assets/screencapture-edit.png)
 
 **Step 3:**
 
-If you click the title, you will find the “Pages Linking Here” tab at the top right of the screen between the “View” and “New Draft” tabs on the menu bar.
+If you click the title, you will find the “Pages Linking Here” tab at the top right of the screen between the “View” and “Edit Draft” tabs on the menu bar.
 
-![](https://cdn-images-1.medium.com/max/800/0*uPTcqSKUZfXobPUN)
+![](../.gitbook/assets/importing-and-exporting-pets-mass-gov.png)
 
 #### **Step 4:**
 
 If you click on the “Edit” button for a non-document content type, such as a Service Detail page or Contact, you will find the “Pages Linking Here” tab between the “View” and “New Draft” tabs at the top left of the CMS editing fields.
 
-![](https://cdn-images-1.medium.com/max/800/0*GrM7YDukhy9zg9du)
+![](../.gitbook/assets/edit-service-details-trade-program-services-for-employers-mass-gov.png)
 
 #### Step 5: 
 
 Once you’ve accessed “Pages Linking Here,” you’ll see a screen that shows pages that link to this page and the content type of those pages. Keep in mind that the list below does not include links embedded through a rich text editor.
 
-![](https://cdn-images-1.medium.com/max/800/0*mwcpaeADdzLnHN_o)
+![](../.gitbook/assets/pages-linking-here-mass-gov.png)
 
 #### Step 6:
 
@@ -62,39 +56,37 @@ You can use “Pages Linking Here” to gain insights into whether your content 
 
 If you’re reviewing a piece of content with “Pages Linking Here” and find that links to the content don’t appear on any pages, then you’ll see the following:
 
-![](https://cdn-images-1.medium.com/max/800/0*Rno8YB5pMBGi5s6Y)
+![](../.gitbook/assets/pages-linking-here-mass-gov-1.png)
 
 This means you’ll have some work to do to improve your content connectivity.
 
-### **“Pages Linking Here” for documents**
+## **“Pages Linking Here” for documents**
 
 #### Step 1:
 
 Go to “All Documents” in the main CMS menu to locate the document you want to check for page links.
 
-![](https://cdn-images-1.medium.com/max/800/0*hflWLtp-Qi4ClmDZ)
+![](../.gitbook/assets/all-documents-mass-gov-x.png)
 
 #### Step 2:
 
 Click the “Edit” button on the far right to access “Pages Linking Here.” \(Don’t click the title/permalink unless you simply want to view the document.\)
 
-![](https://cdn-images-1.medium.com/max/800/0*pYBH4lP7xbAnHMnQ)
+![](../.gitbook/assets/all-documents-mass-gov-y.png)
 
 #### Step 3: 
 
 You’ll find the “Pages Linking Here” tab between the “View” and “Edit” tabs at the top left of the CMS editing fields.
 
-![](https://cdn-images-1.medium.com/max/800/0*OVjTr2qop-OO3208)
+![](../.gitbook/assets/edit-document-college-memo-mass-gov.png)
 
 #### Step 4
 
 When you click the “Pages Linking Here” tab, you’ll see a list of the pages that link to the document and the content type of those pages. Click the page title to see where the document is linked on the page.
 
-![](https://cdn-images-1.medium.com/max/800/0*jXbD8MuFRpFcqwes)
+![](../.gitbook/assets/pages-linking-here-mass-gov-xy.png)
 
-\*\*\*\*
+## Was this article helpful?
 
-### Was this resource helpful?
-
-[Take this 1-minute survey and tell us if this resource was useful.](https://massgov.formstack.com/forms/resource_library_feedback?Article=LinkingPages)
+[![Tell us what you think button](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJ04qJGAHkvdE13BfdG%2F-LSz77NBAwnSNpMPT3df%2F-LSz7xSmyKXltd4avaCt%2FKB%20survey%20button%20POC%202.png?alt=media&token=8d071cab-8b95-48a3-a332-13e3fc8d9f96)](https://massgov.formstack.com/forms/mass_gov_knowledge_base_feedback?article=pages-linking-here)
 

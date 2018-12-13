@@ -1,40 +1,38 @@
----
-description: >-
-  Displays a collection of topics and services that helps direct users toward
-  the content they're looking for.
----
+# About Topic Pages
 
-# Topic Pages
-
-### Summary
+## Summary
 
 Topic Pages group together services that are similar but that are owned by different, sometimes unrelated state organizations. This resource will help you understand how Topic Pages work, and how they help Mass.gov achieve its goal of being service-oriented and constituent-centered.
 
-While Topic Pages can only be created by the Digital Services team, you have some control over how Topic Pages preview your content.
+While Topic Pages can only be created by the Digital Services team, you have some control over how Topic Pages preview your content. 
 
-You can request a new Topic Page from the Digital Services team, or request that your content be added to an existing page. To do this, submit a support request through ServiceNow that includes your Service Page URLs.
+You can request a new Topic Page from the Digital Services team, or request that your content be added to an existing page.
+
+{% hint style="info" %}
+ To request a Topic Page, submit a support request through [ServiceNow](https://www.mass.gov/servicenow) that includes your Service Page URLs.
+{% endhint %}
 
 Currently, only Service Pages and other Topic Pages can be linked to Topic Pages.
 
-### Topic Pages help organize Mass.gov
+## Topic Pages help organize Mass.gov
 
 Topic Pages help organize content into broad categories of information. They are designed to be general and agency-agnostic. This helps users who might have a general sense of what they’re looking for, but don’t know the name of a program or government service. Here some examples of Topic Pages that exist right now on Mass.gov:
 
-* Taxes
-* Environmental Protection
-* Housing & Property
-* Marriage & Divorce
-* Health Care Licenses
+* [Taxes](https://www.mass.gov/topics/taxes)
+* [Environmental Protection](https://www.mass.gov/topics/environmental-protection)
+* [Housing & Property](https://www.mass.gov/topics/housing-property)
+* [Marriage & Divorce](https://www.mass.gov/topics/marriage-divorce)
+* [Health Care Licenses](https://www.mass.gov/topics/health-care-licenses)
 
-The highest-level, most general Topic Pages on Mass.gov are those at the top of the home page: Living, Working, Learning, Visiting & Exploring, and Your Government.
+The highest-level, most general Topic Pages on Mass.gov are those at the top of the home page: [Living](https://www.mass.gov/topics/living), [Working](https://www.mass.gov/topics/working), [Learning](https://www.mass.gov/topics/learning), [Visiting & Exploring](https://www.mass.gov/topics/visiting-exploring), and [Your Government](https://www.mass.gov/topics/your-government).
 
-![](https://cdn-images-1.medium.com/max/800/1*f2oE9UVTEW-PeP1V0aIqeQ.png)
+![](../../.gitbook/assets/mass-gov-home-page.png)
 
-### Topic Pages and your content
+## Topic Pages and your content
 
 Topic Pages don’t have much content of their own. Like most other pages, they have a banner, title, and a short description at the top.
 
-![](https://cdn-images-1.medium.com/max/800/1*lrgTwe4OYzx64EKLqvYAsA.jpeg)
+![](../../.gitbook/assets/topic-pages%20%281%29.png)
 
 The rest of the page is made up of previews of content that already exists on the site. Gray cards with short lists of links are previews of other Topic Pages:
 
@@ -48,9 +46,9 @@ If you change one of your service’s **Featured** links, the gray preview cards
 
 You can also add Topic Pages to your Organization Landing Page. They’ll appear under a “Featured Topics” header. This is most useful when your services make up the majority of a Topic Page’s content. However, you can also request that Digital Services create a Topic Page that will only appear on your Organization Page.
 
-![](https://cdn-images-1.medium.com/max/800/1*UKBvfKQ2jFmWaNk8mou4MA.jpeg)
+![](../../.gitbook/assets/featured-topics.png)
 
-### Was this resource helpful?
+## Was this article helpful?
 
-[Take this 1-minute survey and tell us if this resource was useful.](https://massgov.formstack.com/forms/resource_library_feedback?Article=Topic_Pages)
+[![Tell us what you think button](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJ04qJGAHkvdE13BfdG%2F-LSz77NBAwnSNpMPT3df%2F-LSz7xSmyKXltd4avaCt%2FKB%20survey%20button%20POC%202.png?alt=media&token=8d071cab-8b95-48a3-a332-13e3fc8d9f96)](https://massgov.formstack.com/forms/mass_gov_knowledge_base_feedback?article=topic-page)
 

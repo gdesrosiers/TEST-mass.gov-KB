@@ -1,10 +1,6 @@
----
-description: Use along with Formstack to gather data and feedback from users.
----
-
 # Form Pages
 
-### **Summary**
+## **Summary**
 
 This resource will help you use the Form Page content type to gather data and feedback from users. To create Form Pages on Mass.gov, you or someone you work with will need access to and familiarity with Formstack, a tool for creating online forms.
 
@@ -18,13 +14,13 @@ You can link to Form Pages:
 
 ![](https://cdn-images-1.medium.com/max/800/1*P6nd64f12_oAB6jpVvO2mQ.jpeg)
 
-### Form Pages with file uploads vs. Form Pages without file uploads
+## Form Pages with file uploads vs. Form Pages without file uploads
 
 Currently, you need to follow different steps for Form Pages that allow users to upload a file than for Form Pages that only ask users to answers questions.
 
 **Important:** It doesn’t matter if the file upload is required or optional. If your Formstack form includes a file upload, but you don’t follow the “Create a Form Page _with_ a file upload” steps, you won’t receive any of the files users upload. Additionally, users won’t get an indication that they’ve submitted the form. The user experience will be that they’ve clicked “submit,” but nothing has happened.
 
-#### Create a Form Page _with_ a file upload
+### Create a Form Page _with_ a file upload
 
 This resource assumes that you’ve already built your form in Formstack. \(If it is an older form, make sure you change the theme to Mayflower.\)
 
@@ -105,7 +101,7 @@ You may want to edit the message that Formstack normally displays to tell users 
 
 Since you’re coordinating between 2 tools — Mass.gov and Formstack, it’s a good idea to try to submit a form yourself to make sure everything works the way you want it to.
 
-### Was this resource helpful?
+## Was this article helpful?
 
-[Take this 1-minute survey and tell us if this resource was useful.](https://massgov.formstack.com/forms/resource_library_feedback?Article=Forms)
+[![Tell us what you think button](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJ04qJGAHkvdE13BfdG%2F-LSz77NBAwnSNpMPT3df%2F-LSz7xSmyKXltd4avaCt%2FKB%20survey%20button%20POC%202.png?alt=media&token=8d071cab-8b95-48a3-a332-13e3fc8d9f96)](https://massgov.formstack.com/forms/mass_gov_knowledge_base_feedback?article=form-pages)
 

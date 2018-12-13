@@ -1,37 +1,37 @@
----
-description: >-
-  You can use Siteimprove, a tool for optimizing web content, to check if your
-  content has any broken links.
----
-
 # Fix broken links with Siteimprove
+
+## **Overview**
 
 ### **Step 1: In the navigation menu on the left, click “Quality Assurance”**
 
-![](https://cdn-images-1.medium.com/max/800/0*YsrWryerd4wZBe3_.)
+![](../../.gitbook/assets/siteimprove_qa_screenshot.png)
 
 ### **Step 2: Click “Links”**
 
-![](https://cdn-images-1.medium.com/max/800/0*JYVtBuZM5U6kl70X.)
+![](../../.gitbook/assets/siteimprove_links_screenshot.png)
 
 Under links, you’ll find the following options to help you find and repair broken links. Here are the 3 most important menus:
 
 * Summary: View a summary of all content with broken links, including a dashboard with this data. This summary includes 2 lists at the bottom: a list of pages that contain broken links, and a list of links that are broken. Clicking “View all” at the bottom of these lists will take you to the “Pages with Broken Links” and “Broken Links” pages respectively.
 
-![](https://cdn-images-1.medium.com/max/1000/1*C-H9yeoaxUbhVvgmWvbChg.png)
+![](../../.gitbook/assets/screencapture-my2-siteimprove.png)
 
 * Pages with Broken Links: A list of content with 1 or more broken links
 * Broken Links: A list of links that are broken.
 
 ### **Step 3: Click “Pages with Broken Links” to see the list of pages that contain broken links**
 
-![](https://cdn-images-1.medium.com/max/1000/0*nYpa43V6G313lr2g.)
+![](../../.gitbook/assets/siteimprove_broken-links_screenshot.png)
 
-To preview which links are broken on a page, click the arrow in the “broken links” column. This will open a dropdown that previews the broken links on that specific page.![](https://cdn-images-1.medium.com/max/1000/1*4AmeU_43m-8drQLxwUAPvA.png)
+To preview which links are broken on a page, click the arrow in the “broken links” column. This will open a dropdown that previews the broken links on that specific page.
+
+![](https://cdn-images-1.medium.com/max/1000/1*4AmeU_43m-8drQLxwUAPvA.png)
 
 ### **Step 4: Select a link to analyze**
 
-Clicking a page in the list will open a preview of it in Siteimprove with the broken links highlighted:![](https://cdn-images-1.medium.com/max/1000/0*3D2VLP2Rg0YxkK-M.)
+Clicking a page in the list will open a preview of it in Siteimprove with the broken links highlighted:
+
+![](https://cdn-images-1.medium.com/max/1000/0*3D2VLP2Rg0YxkK-M.)
 
 On the left side, you’ll see a toolbar that offers general information about broken links. “Occurrences on this page” will tell you:
 
@@ -64,9 +64,9 @@ Click the “Edit in CMS” in the toolbar at the top of the page to make change
 
 ![](https://cdn-images-1.medium.com/max/800/0*4BPPvImR9WyiDhNW.)
 
-### More tips
+## More tips
 
-#### **Search by broken link**
+### **Search by broken link**
 
 Another way to use Siteimprove to find broken links is to by broken link. This is helpful when you know which link is broken, but not which page\(s\) it appears on. To view this list, click on “Broken Links” in the sidebar menu.
 
@@ -80,11 +80,11 @@ To see the list of pages each link appears on, click on the arrow next to the nu
 
 Clicking on any of these will take you to a page report for that page, where the link will be highlighted. Click the arrow again to collapse this section.
 
-#### **Browser-specific broken links**
+### **Browser-specific broken links**
 
 You might find that Siteimprove says there’s a broken link on your page, but when you try it, the link seems to work fine. This might because the link works in some browsers, but not others. For example, a license verification application may work when using Google Chrome but not Internet Explorer.
 
-#### **Other reasons for broken links**
+## **Other reasons for broken links**
 
 [There are several reasons that Siteimprove might consider a link broken](https://support.siteimprove.com/hc/en-gb/articles/206347223-Why-is-Siteimprove-reporting-this-link-as-broken-?flash_digest=091f817d8bc53320573453ee2ffa6e22f25e8b2d&flash_digest=e5434f3ce5e31407e843c2caefbca4f0871f4ab9) \(you’ll need to be logged into Siteimprove to view this resource\). The most common reasons include:
 
@@ -98,7 +98,7 @@ This means the link goes to a page that doesn’t seem to exist anymore. Maybe i
 
 Another common cause for 404s are specific to web browsers. When you link to a page with an incomplete URL \(ie. [https://mass.gov](https://mass.gov) instead of [https://www.mass.gov](https://www.mass.gov)\) that page will not open on Internet Explorer. This is another reason it’s important to use the autocomplete fields for linking pages whenever possible.
 
-### Was this resource helpful?
+## Was this article helpful?
 
-[Take our 1-minute survey and tell us if this resource was useful.](https://massgov.formstack.com/forms/resource_library_feedback?Article=Siteimprove_linking)
+[![Tell us what you think button](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJ04qJGAHkvdE13BfdG%2F-LSz77NBAwnSNpMPT3df%2F-LSz7xSmyKXltd4avaCt%2FKB%20survey%20button%20POC%202.png?alt=media&token=8d071cab-8b95-48a3-a332-13e3fc8d9f96)](https://massgov.formstack.com/forms/mass_gov_knowledge_base_feedback?article=fix-broken-links-with-siteimprove)
 

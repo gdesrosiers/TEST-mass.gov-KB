@@ -1,16 +1,10 @@
----
-description: >-
-  Spread the word about your organization’s public events, course offerings, and
-  meetings.
----
-
 # Events
 
-### Summary
+## Summary
 
 You can use the Event content type to spread the word about your organization’s public events. This resource will guide you through authoring Events and how to post them on associated pages.
 
-There are 2 kinds of Events: General Events and Public Meetings. As its name suggests, the Public Meeting includes sections that let you tell users about opportunities for public testimony.
+There are 3 kinds of Events: General Events, Public Hearings, and Public Meetings. As its name suggests, the Public Meeting includes sections that let you tell users about opportunities for public testimony.
 
 You can post your Event to these content types:
 
@@ -31,9 +25,9 @@ To save a draft of your Event, you’ll need to fill out the following fields:
 * Address
 * Associated Pages \(which page\[s\] you want your Event to appear on\)
 
-### The "Overview" tab
+## The Overview tab
 
-#### General Event vs. Public Meeting
+### General Event vs. Public Meeting
 
 Public Meetings are a special type of Event with some additional sections to help you tell your users about public meetings. When you select Public Meeting **Event Type,** users will see a “Public Meeting” label displayed at the top of the page:
 
@@ -45,7 +39,7 @@ Finally, use the **public testimony** section for important headlines and callou
 
 ![](https://cdn-images-1.medium.com/max/800/1*f1tELhueU3WDTl4Fk1HB1Q.jpeg)
 
-#### Title and Listing Description
+### Title and Listing Description
 
 The **Event Title** and **Listing Description** appear in the Google search result previews, so it’s important that they be written clearly, and in plain language. Try to write them using the words you think your audience would enter into a search engine to find them.
 
@@ -53,7 +47,7 @@ The **Event Title** and **Listing Description** appear in the Google search resu
 
 Note that the **Listing Description** does not appear on the Event’s full-page display. It’s not a subtitle or short description — it’s just for search engines and social media.
 
-#### Logo
+### Logo
 
 This option lets you include an image that represents your event. Your image needs to have a white or transparent background, and should be at least 230 pixels wide. You may use .png, .gif, .jpg, or .jpeg files.
 
@@ -61,19 +55,19 @@ Here’s what a logo looks like on a published events page:
 
 ![](https://cdn-images-1.medium.com/max/1000/1*7ToiDiOvlPXigAu9nfObXg.jpeg)
 
-#### Time
+### Time
 
 If possible, add your time using buttons in the **Date and Time** field. This will help us make sure that dates and times are written the same way across the site, and make Mass.gov more readable.
 
 The **Complex event time** field is for events whose times can’t be expressed in numbers. For example, you might write that your event will begin at 10 a.m. and will continue until you run out of supplies.
 
-#### Description
+### Description
 
 In the **Description** section, add a brief summary of what someone who comes to your event should expect. Imagine that your audience has never been to an event like this one: what do they need to know in advance? You might include links to associated organizations or to related Mass.gov pages.
 
-### The "Address" tab
+## The Address tab
 
-#### **Address from Contact Information item**
+### **Address from Contact Information item**
 
 This field works [the way contact information works across Mass.gov](contact-information-items.md): start typing the name of a Contact Information that you already published and select it from the list that appears.
 
@@ -81,13 +75,13 @@ On the published page, the address — and only the address — from the
 
 ![](https://cdn-images-1.medium.com/max/1000/1*LoIIpRHnr3dkvBgFhIrzLw.jpeg)
 
-#### **Unique Address**
+### **Unique Address**
 
 Use this field if you don’t want to add a Contact Information item for the event site — if this is the only time you’ll ever hold an event at this location, for example, and you don’t want to create a contact information item on Mass.gov just for this event. The unique address appears below the title.
 
 ![](https://cdn-images-1.medium.com/max/1000/1*GMfSbBlNJew6tqO-NVy7NQ.jpeg)
 
-### Agenda and Meeting Minutes
+## Agenda and Meeting Minutes
 
 If your Event is a meeting, use these tabs to tell users about the agenda, or to post meeting minutes.
 
@@ -95,7 +89,7 @@ If you add more than one section in either, the first will appear on your event 
 
 ![](https://cdn-images-1.medium.com/max/800/1*4GOxCsQrELhn3ujBbEBpww.jpeg)
 
-### Associated pages
+## Associated pages
 
 Enter the pages where you’d like your Event to appear. You can add an Event to these content types:
 
@@ -111,7 +105,7 @@ Here’s what Events look like once you’ve added them to another page:
 
 ![](https://cdn-images-1.medium.com/max/1000/1*wL2dFwHpgmnAKLQHx2IkBg.jpeg)
 
-### Event listings
+## Event listings
 
 Once you’ve begun publishing Events and adding them to your pages, Mass.gov will generate 2 types of Event listing pages. One lists upcoming events, and one lists past events.
 
@@ -119,13 +113,11 @@ Users will be able to access these lists from the pages where your events appear
 
 ![](https://cdn-images-1.medium.com/max/800/1*uXq_f2DstE1RC3Sdh-cAHQ.jpeg)
 
-Both the “upcoming” and “past” listing display 10 events per page:
+If there are upcoming events, these will come up first. To see all past events, select "See past events". Both the “upcoming” and “past” listing display 10 events per page:
 
-![](https://cdn-images-1.medium.com/max/800/1*kocsXA9ybWprpnXxiWRpKw.jpeg)
+![](../.gitbook/assets/events-mass-gov.png)
 
-![](https://cdn-images-1.medium.com/max/1000/1*uXq_f2DstE1RC3Sdh-cAHQ.jpeg)
+## Was this article helpful?
 
-### Was this resource helpful?
-
-[Take this 1-minute survey and tell us if this resource was useful.](https://massgov.formstack.com/forms/resource_library_feedback?Article=Events)
+[![Tell us what you think button](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJ04qJGAHkvdE13BfdG%2F-LSz77NBAwnSNpMPT3df%2F-LSz7xSmyKXltd4avaCt%2FKB%20survey%20button%20POC%202.png?alt=media&token=8d071cab-8b95-48a3-a332-13e3fc8d9f96)](https://massgov.formstack.com/forms/mass_gov_knowledge_base_feedback?article=events)
 

@@ -2,7 +2,7 @@
 
 This style guide should be used by anyone writing content that will end up posted on Mass.gov, except when that content is a law, regulation, or policy.
 
-### General rules
+## General rules
 
 To make your writing as accessible and web-friendly as possible:
 
@@ -11,17 +11,17 @@ To make your writing as accessible and web-friendly as possible:
 * [**Structure your content to make it scannable**](https://pages.18f.gov/content-guide/structure-the-content/). Put the most important information first and use headers, bulleted lists, and short paragraphs to break up your text.
 * [**Be concise**](https://pages.18f.gov/content-guide/be-concise/). Use contractions where it’s natural to do so.
 
-### Acronyms and state organization references
+## Acronyms and state organization references
 
 Acronyms often confuse readers. Avoid them whenever possible.
 
 If an acronym is necessary for future reference, spell the full name or phrase and follow with the acronym in parentheses on the first reference. For example, “[**Department of Public Health \(DPH\)**](http://www.mass.gov/eohhs/gov/departments/dph/)” on its first mention on a page, then DPH for any subsequent mention. Make the spelled out version of the name into a link to the organization’s home page.
 
-### Formatting
+## Formatting
 
 Never use underlines. On the web, underlines are only used for links.
 
-### Links
+## Links
 
 Links have two parts: the **anchor text**, or words that can be clicked; and the **URL**, or web address, that those words link to. You should not add URLs directly into your content without anchor text.
 
@@ -40,7 +40,7 @@ Sometimes it isn’t possible to be crystal clear. Use common sense, trying to s
 3. Press **control \(Windows\) or command \(Mac\) + K** to open the link pop-up.
 4. Paste the link you copied in step 1.
 
-### Punctuation and capitalization
+## Punctuation and capitalization
 
 **Commas**: For clarity, use the “Oxford” \(or serial\) comma — that is, add a comma after every item in a list, including the second-to-last one. Example: “I like the colors red, green, blue, and yellow.”
 
@@ -56,11 +56,11 @@ Long dashes, or em-dashes \( — \), delineate a pause or insert an independ
 
 **Titles and headings**: Use sentence case whenever possible, including for titles and headings — it’s easier to scan and read lowercase words. That means capitalize the first word, but leave the rest of the title lowercase \(except for words that would normally be capitalized, like proper nouns\).
 
-### **Numbers**
+## **Numbers**
 
 Don’t spell out numbers \(unless they begin a sentence\). Numerals make it easier for readers to scan important information \(like the 2 ways of filing for unemployment or the 6 steps required to complete a particular form\).
 
-### Addresses
+## Addresses
 
 Format street addresses as follows:
 
@@ -78,21 +78,21 @@ Boston, MA 02108
 8th Floor  
 Boston, MA 02108
 
-### Phone numbers and times
+## Phone numbers and times
 
-#### **Phone numbers**
+### **Phone numbers**
 
 * Use parentheses around the area code. _Example:_ \(800\) 111-2345
 * Do not use letters for phone numbers. _Example:_ Instead of \(800\) STEEMER, use \(800\) 783-3637. Phone numbers with letters prevent people from using “click-and-call” on their mobile devices, and they are not accessible.
 
-#### **Times**
+### **Times**
 
 * Omit “:00”
 * Use “a.m.” or “p.m.” \(lowercase, with periods\)
 * Use an en-dash without spaces on either side for time ranges. An en-dash \(–\) is slightly wider than a hyphen \(-\) but narrower than an em-dash \( — \)
 * _Example:_ “9 a.m.–5:30 p.m.”
 
-### More info
+## More info
 
 If you have questions about formatting dates, numbers, titles, or anything not covered in this presentation, Mass.gov uses the following style guides, in this order of preference:
 
@@ -100,7 +100,7 @@ If you have questions about formatting dates, numbers, titles, or anything not c
 * [**18F Content Guide**](https://pages.18f.gov/content-guide/index.html)
 * [**Merriam-Webster Online**](https://www.merriam-webster.com/)
 
-### Was this resource helpful?
+## Was this article helpful?
 
-[Take this 1-minute survey and tell us if this resource was useful.](https://massgov.formstack.com/forms/resource_library_feedback?Article=Style_Guide)
+[![Tell us what you think button](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJ04qJGAHkvdE13BfdG%2F-LSz77NBAwnSNpMPT3df%2F-LSz7xSmyKXltd4avaCt%2FKB%20survey%20button%20POC%202.png?alt=media&token=8d071cab-8b95-48a3-a332-13e3fc8d9f96)](https://massgov.formstack.com/forms/mass_gov_knowledge_base_feedback?article=style-guide)
 

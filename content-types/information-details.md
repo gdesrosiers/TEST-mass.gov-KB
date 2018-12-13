@@ -1,12 +1,6 @@
----
-description: >-
-  Use this content type for long fact sheets, report chapters, and information
-  that isn't tied to a transaction.
----
-
 # Information Details
 
-### Summary
+## Summary
 
 The Information Detail is designed for long, complex content. You’ll be able to add more images, media, and customization than on other content types. It also supports long form content with a table of contents.
 
@@ -19,11 +13,13 @@ Since the Mass.gov CMS offers several long form content types, it might help to 
 * If you need to publish research or a long form explanation of a single subject, use an [Information Detail](information-details.md)
 * You might also want to combine multiple Information Details into a [Binder](binders.md), where you can encourage users to read them in a specific order
 
+{% hint style="info" %}
 To save a draft of your Information Details, you’ll need:
 
 * A **title**
 * A **short description**
 * At least 1 content **section** \(**note:** The table of contents will only appear if you have at least 3 sections\).
+{% endhint %}
 
 The best place to link Information Details are:
 
@@ -31,7 +27,7 @@ The best place to link Information Details are:
 * In a Binder
 * In a Curated List
 
-### Header media: Adding iFrames, Images, or Videos
+## Header media: Adding iFrames, Images, or Videos
 
 The Information Detail offers more media options than other Mass.gov content types.
 
@@ -41,15 +37,15 @@ Your header can include an image, iFrame, or a video — but only one at a t
 
 ![](https://cdn-images-1.medium.com/max/800/1*CsAaDpfp04MC4ZqYaPgCWQ.png)
 
-#### **Adding images**
+### **Adding images**
 
 If you choose an image for your **Header media** option, it will display at 1600 pixels wide. This is the same width as the Organization Page’s banner. Please note that the display will adapt to the height of your image — there’s currently no limit. A good place to begin might be 1600 x 400 pixels.
 
-#### **Adding iFrames**
+### **Adding iFrames**
 
 An iFrame is a page-inside-a-page. You can think of it like the picture-in-picture option on your television: One source is “piped in” to another source.
 
-On an Information Detail, iFrames will display at full-width. By contrast, iFrames on a Service Detail stop short of the right side of the page to make room for Contact Information and related links. If you need to iFrame in a large data visualization or map for your content, the Information Detail might be a good choice. Here’s what an iFrame looks like on an Information Detail:
+On an Information Detail, iFrames will display at full-width. By contrast, iFrames on a Service Detail stop short of the right side of the page to make room for Contact Information and related links. If you need to use an iFrame to add a large data visualization or map to your content, the Information Detail might be a good choice. Here’s what an iFrame looks like on an Information Detail:
 
 ![](https://cdn-images-1.medium.com/max/800/0*zk9obe1cX-usWiLD.)
 
@@ -67,7 +63,7 @@ To add an iFrame:
 
 Additionally, you should always try out your iFramed page on a mobile device to get a sense of the user’s experience. You may learn that an iFrame is not a good solution, especially if lots of your traffic comes from mobile devices.
 
-#### **Adding Videos**
+### **Adding Videos**
 
 You can also add videos that are hosted on YouTube to your Information Detail pages.
 
@@ -77,7 +73,7 @@ You can also add videos that are hosted on YouTube to your Information Detail pa
 4. Paste the URL of your video into **Video URL**
 5. If you add content into **Transcript** and **Video Description**, Mass.gov will create a link that to a page with your video and this content
 
-### Sections
+## Sections
 
 Your Information Detail will include one or more sections. Beginning with the third section, each new section will be listed in the Information Detail’s table of contents. \(This works the same as with Guides and Curated Lists work.\)
 
@@ -99,17 +95,19 @@ Stats also callout important information and allow you to visually break up cont
 
 ![Left-aligned stat](https://cdn-images-1.medium.com/max/800/0*psTN4GhxAnHbzZhJ.)
 
-### **How users will use the table of contents**
+## **How users will use the table of contents**
 
-Information Details have “sticky” tables of contents — or tables of contents that come along for the rider when a user scrolls.
+Information Details have “sticky” tables of contents — or tables of contents that come along for the ride when a user scrolls.
 
-As the users scrolls past the table of contents at the top, the table collapses:![](https://cdn-images-1.medium.com/max/1000/0*AKUXBDGVHvy_FBXw.)
+As the users scrolls past the table of contents at the top, the table collapses:
+
+![Info Detail Page with collapsed table of contents](../.gitbook/assets/info-details_toc-collapse_screenshot_marked.png)
 
 However, users can click the blue “Table of Contents” button to see a list of all the Information Detail’s headings:
 
-![](https://cdn-images-1.medium.com/max/800/1*JlI0_H_CtS4xjmdE59I3BQ.jpeg)
+![](../.gitbook/assets/info-detail_toc-expanded_screenshot_marked2.png)
 
-### Managing and moving blocks of content
+## Managing and moving blocks of content
 
 You might find that you need to move sections or chunks of content around. Use the crosshairs in the upper left to drag and drop chunks of content:
 
@@ -119,7 +117,7 @@ Once you’ve created enough sections, it might become unwieldy and awkward to m
 
 ![](https://cdn-images-1.medium.com/max/800/1*OgbnNcf1x5ZQPNJIZUYp9Q.png)
 
-### Was this resource helpful?
+## Was this article helpful?
 
-[Take this 1-minute survey and tell us if this resource was useful.](https://massgov.formstack.com/forms/resource_library_feedback?Article=Info_details)
+[![Tell us what you think button](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJ04qJGAHkvdE13BfdG%2F-LSz77NBAwnSNpMPT3df%2F-LSz7xSmyKXltd4avaCt%2FKB%20survey%20button%20POC%202.png?alt=media&token=8d071cab-8b95-48a3-a332-13e3fc8d9f96)](https://massgov.formstack.com/forms/mass_gov_knowledge_base_feedback?article=information-details)
 

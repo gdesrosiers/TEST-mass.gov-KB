@@ -1,16 +1,10 @@
----
-description: >-
-  You can use Siteimprove, a tool for optimizing web content, to check
-  readability.
----
-
 # Check your content's readability with Siteimprove
 
-#### 
+## Overview
 
 ### **Step 1: Log in, find the navigation menu on the left, and click “Quality Assurance.”**
 
-![](https://cdn-images-1.medium.com/max/800/0*9JRNTtfJ9hevRsVd.)
+![](../../.gitbook/assets/siteimprove_qa_screenshot.png)
 
 ### **Step 2: Click “Readability.”**
 
@@ -22,7 +16,7 @@ description: >-
 
 You’ll see a list of your pages ranked by readability score from highest to lowest grade level. You can look for a specific page by entering a page title or URL in the search bar at the upper right of the list:
 
-![](https://cdn-images-1.medium.com/max/1000/0*RljnvI0dKa2XZdQU.)
+![](../../.gitbook/assets/pages-readability-quality-assurance.png)
 
 ### **Step 4: Select a page**
 
@@ -45,7 +39,7 @@ To edit your content based on what you’ve learned from Siteimprove, you can cl
 
 ![](https://cdn-images-1.medium.com/max/800/0*ioB5d0UkmuaY7WaG.)
 
-### Related:
+## Related:
 
 {% page-ref page="../../mass.gov-style/readability-tips-for-improvement.md" %}
 
@@ -55,7 +49,7 @@ To edit your content based on what you’ve learned from Siteimprove, you can cl
 
 {% page-ref page="../../mass.gov-style/style-guide.md" %}
 
-### Was this resource helpful?
+## Was this article helpful?
 
-[Take this 1-minute survey and tell us if this resource was useful.](https://massgov.formstack.com/forms/resource_library_feedback?Article=siteimprove_readability)
+[![Tell us what you think button](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJ04qJGAHkvdE13BfdG%2F-LSz77NBAwnSNpMPT3df%2F-LSz7xSmyKXltd4avaCt%2FKB%20survey%20button%20POC%202.png?alt=media&token=8d071cab-8b95-48a3-a332-13e3fc8d9f96)](https://massgov.formstack.com/forms/mass_gov_knowledge_base_feedback?article=check-your-contents-readability)
 

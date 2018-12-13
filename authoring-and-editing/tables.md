@@ -1,20 +1,18 @@
----
-description: 'How to create clear, accessible data tables.'
----
-
 # Tables
 
-### Summary
+## Summary
 
 A data table is a table for organizing and presenting data.
 
 Sometimes web content authors use tables for layout — to position objects and text in space. [While layout tables aren’t inherently inaccessible](https://webaim.org/techniques/tables/), you should avoid using them this way on Mass.gov.
 
+{% hint style="warning" %}
 As a general guideline, avoid copying and pasting tables from other places. This often generates tables that behave in unexpected and undesired ways. Instead, re-create tables using the table tool, as described below.
+{% endhint %}
 
-### How to make a data table
+## How to make a data table
 
-#### **The basics**
+### **The basics**
 
 To make a table, find the table tool in a rich text editor. You can find rich text editors in most content types on Mass.gov. For example, Service Details, How-tos, Location pages, and Guides all have rich text editors. Here’s where to find the table tool:
 
@@ -90,7 +88,7 @@ It’s also possible to add a single cell by right clicking in a row, opening th
 
 **Note:** You will not be able to change the number of rows or columns from the “table properties” menu after you’ve created the table. Use the method above instead.
 
-### **Adding and deleting captions to existing table**
+## **Adding and deleting captions to existing table**
 
 You can add a caption to an existing table by right clicking anywhere on the table and selecting “Table Properties.” This will bring up the menu you saw when you first clicked the table option, and you can type in a caption.
 
@@ -114,7 +112,7 @@ Then, click “source” again to return to the normal content editing view.
 
 Here’s a video that provides an example of how to effectively use headers and captions:
 
-### **More information on accessibility**
+## **More information on accessibility**
 
 You can learn more about online accessibility and how people with disabilities experience the internet from [W3C](https://www.w3.org/), the authoritative source for accessibility best practices. Here’s a selection of informative resources:
 
@@ -124,7 +122,7 @@ You can learn more about online accessibility and how people with disabilities e
 
 Need advice on accessibility? Reach out to [EOTSS accessibility expert Sarah Bourne at Sarah.Bourne@mass.gov.](mailto:sarah.bourne@mass.gov)
 
-### Was this resource helpful?
+## Was this article helpful?
 
-[Take this 1-minute survey and tell us if this resource was useful.](https://massgov.formstack.com/forms/resource_library_feedback?Article=Tables)
+[![Tell us what you think button](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJ04qJGAHkvdE13BfdG%2F-LSz77NBAwnSNpMPT3df%2F-LSz7xSmyKXltd4avaCt%2FKB%20survey%20button%20POC%202.png?alt=media&token=8d071cab-8b95-48a3-a332-13e3fc8d9f96)](https://massgov.formstack.com/forms/mass_gov_knowledge_base_feedback?article=tables)
 
