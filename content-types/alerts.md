@@ -38,7 +38,7 @@ Informational Alerts include “Notice”:
 
 This section lets you tell Mass.gov which pages you want your Alert to appear on. You can add as many Mass.gov pages as you’d like.
 
-![](../.gitbook/assets/image.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image.png)
 
 {% hint style="danger" %}
 **Important:** Only users with certain permissions can create sitewide Alerts. If you don't have these permissions, you must select "On specific pages" to publish your Alert.
@@ -67,7 +67,7 @@ For example, here's what an Alert looks like on a desktop...
 
 #### **Full-page Alert displays**
 
- If you don’t fill out the **Link** field, your Alert will become a link to your Alert’s full-page display.
+If you don’t fill out the **Link** field, your Alert will become a link to your Alert’s full-page display.
 
 The Alert’s full-page display will include:
 
@@ -90,15 +90,15 @@ You can move **rich text, iFrames,** and **videos** up or down using the crossha
 
 #### Adding links to an Alert message
 
-If you fill out the **Link** field, your Alert content will become a link to an internal page \(example: Info Detail or Service Detail\) or a page on an external site. Linking to an  Information Detail or Service Detail page is a useful way for giving users more detailed information about your alert. The link will appear in the alert message as "Read more &gt;."
+If you fill out the **Link** field, your Alert content will become a link to an internal page \(example: Info Detail or Service Detail\) or a page on an external site. Linking to an Information Detail or Service Detail page is a useful way for giving users more detailed information about your alert. The link will appear in the alert message as "Read more &gt;."
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%2817%29.png)
 
 #### Show alert message only
 
 If there's nothing more to add to the alert message, select this option and that's all visitors will see.
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%2815%29.png)
 
 #### **Adding more than 1 Alert message**
 

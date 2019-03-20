@@ -10,10 +10,6 @@ description: Welcome to the Mass.gov Knowledge Base.
 
 {% page-ref page="tools-for-improving-your-content/" %}
 
-{% page-ref page="mass.gov-style/" %}
-
-{% page-ref page="get-help-from-the-mass.gov-team/" %}
-
 {% page-ref page="digital-services-resources/" %}
 
 {% hint style="info" %}

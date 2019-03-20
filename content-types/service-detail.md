@@ -33,7 +33,7 @@ This field also powers the "Offered by" relationship indicator \(the small green
 
 In the **Sections** tab, you’ll see options for adding an iFrame, a section, or a video:
 
-![](../.gitbook/assets/service-detail_sections.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/service-detail_sections.png)
 
 ### **Adding iFrames**
 
@@ -44,7 +44,7 @@ An iFrame is a page-inside-a-page. You can think of it like the picture-in-pictu
 To add an iFrame to a Service Details, you’ll need a URL from the source you want to embed in the page. This URL must be from a source that Mass.gov supports and is compatible with, such as Google docs or YouTube. [Here’s a list of domains that you can use \(must be logged in to view\)](https://edit.mass.gov/node/105146).
 
 {% hint style="info" %}
-Consider using an Information Details Page for large iFrames or in cases where you want an iFrame to be the main feature of your page. 
+Consider using an Information Details Page for large iFrames or in cases where you want an iFrame to be the main feature of your page.
 {% endhint %}
 
 To add an iFrame:
@@ -92,20 +92,19 @@ To add a video that you've uploaded in the past:
 
 In the related tab, you'll see options for adding contact information and links related to your Service Details Page.
 
-![](../.gitbook/assets/sd-related-tab.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/sd-related-tab.png)
 
 ### **Contact**
 
 In the **Contact** field you can add a [Contact Information](contact-information-items.md) or [Person](person-items.md) item that people can contact for more information about your service. Enter the name of the Contact or Person item and it will automatically populate in the field's dropdown menu.
 
-![](../.gitbook/assets/contact2.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/contact2.png)
 
 ### **Related Links**
 
-In the **Related Links** fields, you may link up to 5 pages that visitors to your content might also be looking for. To link existing Mass.gov pages, enter the title of the page and it will automatically populate in the field's dropdown menu.  
+In the **Related Links** fields, you may link up to 5 pages that visitors to your content might also be looking for. To link existing Mass.gov pages, enter the title of the page and it will automatically populate in the field's dropdown menu.
 
-
-![](../.gitbook/assets/service-detail_related-links%20%281%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/service-detail_related-links%20%281%29.png)
 
 If you're linking to an external web page, past the URL into the **URL** field and fill in the **Link text** to inform visitors where the link will take them.
 

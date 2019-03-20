@@ -25,7 +25,7 @@ On this tab you’ll see your content’s:
 **Note**: The number of categories displayed depends on the content type you’re viewing.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%289%29.png)
 
 ## **Overall performance score**
 
@@ -35,7 +35,7 @@ Right below it, you’ll see the scores from the other 3–4 categories so you c
 
 This is a great place to track how your edits have affected your scores. Keep track of when you made edits and line that up with these scores to show how the scores change over time. If you click on each of the titles on the over time chart, you can see them individually or as a group.
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%2824%29.png)
 
 We have also included unique pageviews by device type over the last full month. This gives you information on what type of device visitors are using to see your page, whether it’s a computer, mobile phone, or tablet. This is not used toward your overall score.
 
@@ -45,7 +45,7 @@ You can see how edits have affected your traffic and if your page naturally perf
 
 ## See it in action
 
-{% embed url="https://youtu.be/5hLqskb0q8s" %}
+{% embed url="https://youtu.be/5hLqskb0q8s" caption="" %}
 
 ## Was this article helpful?
 

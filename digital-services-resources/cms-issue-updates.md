@@ -65,7 +65,7 @@ ISSUE: Last week we reported an issue where some people had reported content sch
 
 * There’s a known issue with the People and contacts subtype of Curated Lists displaying additional contact items in the table of contents \(ex. Phone, Online, etc.\). We’re working on a fix and will update you once it’s been released.
 
-![Example of additional sections displayed in the table of contents.](../.gitbook/assets/2018-10-21_204337.jpg)
+![Example of additional sections displayed in the table of contents.](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/2018-10-21_204337.jpg)
 
 * There’s a known issue with links not working correctly in tables. We’re currently working on a fix and will update you once it’s been released.
 
@@ -97,13 +97,13 @@ ISSUE: Last week we reported an issue where some people had reported content sch
 
 ### 12:30 p.m.
 
-*  Earlier we reported a known issue where pages weren’t displaying properly on the “See all tasks” page of Service Pages. This issue has now been fixed.
+* Earlier we reported a known issue where pages weren’t displaying properly on the “See all tasks” page of Service Pages. This issue has now been fixed.
 
 ### 8 a.m.
 
 * There is an issue that’s preventing some links on the “See all tasks” list on Service Pages from appearing. This happens only when you’ve added a full URL to the All tasks section. Pages added via the autocomplete function appear correctly.
 
-        We’ve found the cause and will release a fix shortly. We’ll let you know as soon as the fix is released.
-
-
+  ```text
+    We’ve found the cause and will release a fix shortly. We’ll let you know as soon as the fix is released.
+  ```
 

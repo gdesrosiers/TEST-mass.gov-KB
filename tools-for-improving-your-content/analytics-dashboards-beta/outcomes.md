@@ -18,14 +18,14 @@ On a How-to page, you’ll see:
 * Action rate over time
 * Top actions taken
 
-![](../../.gitbook/assets/image%20%2830%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%2830%29.png)
 
 On a Service page, you’ll see:
 
 * % traffic to children pages, such as How-to and Service Details
 * Action rate of children
 
-![](../../.gitbook/assets/image%20%2828%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%2828%29.png)
 
 ## **How-to Page actions**
 
@@ -47,7 +47,7 @@ This is another reason why it’s important to link your pages correctly on the 
 
 ## See it in action
 
-{% embed url="https://youtu.be/5hLqskb0q8s?t=1668" %}
+{% embed url="https://youtu.be/5hLqskb0q8s?t=1668" caption="" %}
 
 ## Was this article helpful?
 

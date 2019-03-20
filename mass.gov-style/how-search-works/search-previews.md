@@ -6,24 +6,23 @@ One of our newest enhancements to Mass.gov search are content previews that show
 
 Service Page previews include links to your **Featured tasks.** If you don’t use the **Featured tasks** field, these won’t appear.
 
-![](../../.gitbook/assets/mass-gov-search.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/mass-gov-search.png)
 
 The same is true for How-to pages and the **Quick actions** field:
 
-![](../../.gitbook/assets/mass-gov-search-1.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/mass-gov-search-1.png)
 
 Search results for Organization Pages will include contact information and, if you’ve included Locations, a link to a Location Listings page.
 
-![](../../.gitbook/assets/mass-gov-search-2.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/mass-gov-search-2.png)
 
-  
 News includes a posted date, an “eyebrow” or label identifying it as news, and whatever you’ve entered in the **listing description** field.
 
-![](../../.gitbook/assets/mass-gov-search-3.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/mass-gov-search-3.png)
 
 Law library content \(Regulations and Decisions, for example\), include date posted and an “eyebrow” or label.
 
-![](../../.gitbook/assets/mass-gov-search-4.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/mass-gov-search-4.png)
 
 ## Was this article helpful?
 

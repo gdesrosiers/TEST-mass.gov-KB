@@ -2,7 +2,7 @@
 
 ## The guiding vision of Mass.gov
 
-The new Mass.gov is _constituent-centered._ Constituents come to Mass.gov to do something specific — renew a license, file an application, or get specific information. We want them to do what they need to do or find what they need to find quickly and easily. This is why Mass.gov is organized around the various services that state organizations offer their constituents.
+The new Mass.gov is _constituent-centered._ Constituents come to Mass.gov to do something specific — renew a license, file an application, or get specific information. We want them to do what they need to do or find what they need to find quickly and easily. This is why Mass.gov is organized around the various services that state organizations offer their constituents.
 
 As you make your way through this training kit, keep these goals in mind:
 
@@ -53,7 +53,7 @@ Each Mass.gov content type has a specific purpose. \(A content type is like a te
 * _Laws & Regs:_ Law library content types
 * _Other:_ For now, all that’s here is the Legacy Redirect, which you can use to direct traffic from your legacy content to your newer Mass.gov content. [Learn about Legacy Redirects](../../content-types/legacy-redirects.md).
 
-If you need to learn the content types, we recommend starting with the service suite, or the 4 page types at the heart of Mass.gov. 
+If you need to learn the content types, we recommend starting with the service suite, or the 4 page types at the heart of Mass.gov.
 
 #### **The Service Page**
 
@@ -64,7 +64,7 @@ Service Page resources:
 * [Learn about authoring Service Pages](../../content-types/service-page.md)
 * [Get help identifying your services](../../mass.gov-style/tips-for-identifying-services.md)
 
-The Service Page usually includes several types of subpages — or pages that go into depth on some aspect of your service. Here they are:
+The Service Page usually includes several types of subpages — or pages that go into depth on some aspect of your service. Here they are:
 
 #### **How-to Pages**
 
@@ -76,7 +76,7 @@ How-to Pages might include a description of how to accomplish something, fee inf
 
 #### **Information Details and Service Details**
 
-Constituents might also need information — more information than you can include in the Service Page’s overview. The 2 main content types for informational pages are the _Information Detail_ and _Service Detail._ In addition to text and images, you can also add videos and iFrames.
+Constituents might also need information — more information than you can include in the Service Page’s overview. The 2 main content types for informational pages are the _Information Detail_ and _Service Detail._ In addition to text and images, you can also add videos and iFrames.
 
 The main difference between them is that Information Details are designed for long-form content. However, if you have brief, simple content, a Service Detail works fine.
 
@@ -101,7 +101,7 @@ At the bottom of every content creation screen, you’ll see a blue dropdown men
 * Save and Publish \(editors only\): Publishes your work. Anybody who has the URL will be able get to your content. It will also be searchable on Mass.gov and search engines.
 * Save and Move to Trash \(editors only\): This is like moving a file to the recycle bin on your computer. An editor will be able recover the content if you need it, but it will be moved out of the “All Content” and “My Content” views in the CMS.
 
-These options change the “moderation state” of your content — that is, if it’s available to the public. Here are the most important “moderation states” and what they mean:
+These options change the “moderation state” of your content — that is, if it’s available to the public. Here are the most important “moderation states” and what they mean:
 
 **Unpublished:** A saved copy of your content exists, but is not available to anybody outside of the Mass.gov CMS \([except through a temporary access link](../temporary-unpublished-access.md)\).
 

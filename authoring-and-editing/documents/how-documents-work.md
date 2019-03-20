@@ -2,7 +2,7 @@
 
 ## **Summary**
 
-Authors should be able to create something once and reuse it in multiple places. Instead of updating the document on each page, you should only need to do it once, and your document will be up-to-date wherever it lives on the website. In some places, this works great today. In other places, it’s a work in progress, and you’ll probably need to do some manual work. 
+Authors should be able to create something once and reuse it in multiple places. Instead of updating the document on each page, you should only need to do it once, and your document will be up-to-date wherever it lives on the website. In some places, this works great today. In other places, it’s a work in progress, and you’ll probably need to do some manual work.
 
 To understand documents on Mass.gov, it helps to learn the difference between a “file” and a “media entity,” since you’ll be working with both.
 
@@ -36,7 +36,7 @@ You can also use the “All Documents” tab under the “Content” menu.
 
 ### Listing description
 
-Every document has a **listing description** field. Use this field to briefly describe the document for users — why they might need it, for example. [When you add documents to Curated Lists, you can click a box to make sure this description appears along with your document.](../../content-types/curated-lists/#automatic-lists)
+Every document has a **listing description** field. Use this field to briefly describe the document for users — why they might need it, for example. [When you add documents to Curated Lists, you can click a box to make sure this description appears along with your document.](../../content-types/curated-lists/#automatic-lists)
 
 ## Was this article helpful?
 

@@ -14,25 +14,25 @@ After you’ve opened your content by clicking “new draft” or “edit,” fi
 
 You can do this for both unpublished drafts and published content. If you move published content to the trash, it will no longer be available on the web.
 
-![](../.gitbook/assets/edit-information-details-investor-resources-mcwt-mass-gov.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/edit-information-details-investor-resources-mcwt-mass-gov.png)
 
 ### **From “My content” and “All content”**
 
 On the right side of the page, under “Actions,” open the “edit” dropdown. Select “Set to trash.” You can do this for both unpublished drafts and published content.
 
-![](../.gitbook/assets/content-mass-gov.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/content-mass-gov.png)
 
 ## Recovering trashed items
 
 Find the “Trash” menu under “Content.”
 
-![](../.gitbook/assets/content-mass-gov-1.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/content-mass-gov-1.png)
 
 Then, select the content you want to restore and click the “Restore” button:
 
-![](../.gitbook/assets/trash-mass-gov.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/trash-mass-gov.png)
 
-**Important:** When you restore an item from the trash, it becomes unpublished content — even if when you trashed it, it was published. If you need it published, you’ll need to edit it and republish it.
+**Important:** When you restore an item from the trash, it becomes unpublished content — even if when you trashed it, it was published. If you need it published, you’ll need to edit it and republish it.
 
 ## Was this article helpful?
 

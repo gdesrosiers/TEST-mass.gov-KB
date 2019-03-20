@@ -2,7 +2,7 @@
 
 ### Principles for writing on Mass.gov
 
-People read web content differently than books or newspapers. Online readers scan pages quickly instead of reading each word. If they can’t easily find what they want, they’ll leave — usually within 10 seconds.
+People read web content differently than books or newspapers. Online readers scan pages quickly instead of reading each word. If they can’t easily find what they want, they’ll leave — usually within 10 seconds.
 
 Because of this, it’s important to write in a way that is scannable and easy to read.
 
@@ -43,7 +43,7 @@ Tips for writing scannable content:
 
 ### Writing for real people
 
-Most people who visit Mass.gov want to do something specific — renew their driver’s license, apply for unemployment benefits, etc. They’re not here to explore, and they don’t want to read long pages of text. For this reason, every piece of published content on Mass.gov should be designed to meet a specific need.
+Most people who visit Mass.gov want to do something specific — renew their driver’s license, apply for unemployment benefits, etc. They’re not here to explore, and they don’t want to read long pages of text. For this reason, every piece of published content on Mass.gov should be designed to meet a specific need.
 
 If your content doesn’t help a user do something specific, it probably shouldn’t be on the website.
 
@@ -82,7 +82,7 @@ Mass.gov is:
 * **Helpful but not overbearing.** Think of yourself as a customer service representative. Try to help people get stuff done.
 * **Human but not casual.** Be warm and personable, but don’t get silly. Mass.gov should be welcoming, but it’s still the voice of state government.
 
-**Use active voice — avoid passive voice**
+**Use active voice — avoid passive voice**
 
 Be concise and direct when writing content for Mass.gov. Usually, the voice that best supports this style is the active voice.
 
@@ -99,15 +99,15 @@ Research shows that the active voice is easier to understand, and that it makes 
 _Example 1:_
 
 > _**Passive voice:**_ _The request form must be submitted to the approving official._
-
+>
 > _**Active voice:**_ _You must submit the request form to the approving official._
 
-The active voice sentence focuses on the person who will submit the form. This person is entirely absent from the passive voice sentence. That feels impersonal — and can be confusing, too.
+The active voice sentence focuses on the person who will submit the form. This person is entirely absent from the passive voice sentence. That feels impersonal — and can be confusing, too.
 
 _Example 2:_
 
 > _**Passive voice:**_ _The case number should be saved in your records. It will be required for future inquiries._
-
+>
 > _**Active voice:**_ _Save the case number in your records. You will need it for future inquiries._
 
 Here, the passive voice is not only impersonal, it’s wordy. Longer instructions are harder to follow.
@@ -120,7 +120,7 @@ Government websites are for everyone. The content they contain should be as stra
 
 #### **What is plain language?**
 
-Picture your audience and write as if you were talking to them in person, with the authority of someone who can actively help them. This is [**plain language**](http://www.plainlanguage.gov/) — the use of the simplest words to convey meaning.
+Picture your audience and write as if you were talking to them in person, with the authority of someone who can actively help them. This is [**plain language**](http://www.plainlanguage.gov/) — the use of the simplest words to convey meaning.
 
 #### **Why should you care?**
 
@@ -139,12 +139,12 @@ What is positive language?
 Positive language focuses on what the reader can do rather than what they can’t.
 
 > _**Negative language:**_ _You cannot continue without signing in._
-
+>
 > _**Positive language:**_ _Sign in to continue._
 
 #### **Address the user**
 
-Address the user as “you” wherever possible. Content on Mass.gov often makes a direct appeal to the public and businesses to take action. If you’re creating content that addresses many users — for example, a patient and their caregiver — address the primary user as “you” and refer to the other users by their roles or titles.
+Address the user as “you” wherever possible. Content on Mass.gov often makes a direct appeal to the public and businesses to take action. If you’re creating content that addresses many users — for example, a patient and their caregiver — address the primary user as “you” and refer to the other users by their roles or titles.
 
 #### **How to talk about the public**
 
@@ -156,7 +156,7 @@ How you refer to the public is dependent on context. Feel free to choose from an
 * Folks
 * Constituents
 
-We recommend against using the word “citizens” this way, as not everyone who uses Mass.gov is a citizen. Use “citizens” only when specifically writing about U.S. citizenship — for example, when describing who can vote in federal elections.
+We recommend against using the word “citizens” this way, as not everyone who uses Mass.gov is a citizen. Use “citizens” only when specifically writing about U.S. citizenship — for example, when describing who can vote in federal elections.
 
 #### **Use contractions**
 

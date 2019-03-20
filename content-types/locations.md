@@ -6,8 +6,7 @@ Location pages help constituents know where to find you, how to get there, and w
 
 Location pages are linked from either an [Organization page](https://massgovdigital.gitbook.io/knowledge-base/content-types/organization-pages/general-org-page#map) or [Service page](https://massgovdigital.gitbook.io/knowledge-base/content-types/service-page#the-map-and-additional-info-tabs). Once you’ve created your Location page\(s\), you’ll be able to add them to an Organization or Service page via the “Map” tab.
 
-If you add more than 1 Location page, Mass.gov will automatically generate a Location Listing page. A map featuring “pins” for each location will display at the bottom of your Organization or Service page. If you click the button on the left of the map, you’ll be taken to the Location Listing page.    
-
+If you add more than 1 Location page, Mass.gov will automatically generate a Location Listing page. A map featuring “pins” for each location will display at the bottom of your Organization or Service page. If you click the button on the left of the map, you’ll be taken to the Location Listing page.
 
 ![](https://lh5.googleusercontent.com/IKt06n83R85TGtNX36TN1MsMjqTDFTt7MCqWrUexxxUB8KLmTZxE-lwv9O9toCu71xAaZOGRChhnwo1nrfYYiMfU3MBDvtbHqv4lgdiE62MXQaIIMfVm511E9t2BeMmXdIE26XcR)
 
@@ -88,8 +87,7 @@ Highlight **related locations** to let people know what’s nearby or what other
 
 ### Quick Actions and Additional Contacts
 
-Provide up to 3 links where a user can perform an action online or download a helpful pdf related to the in-person experience. These links will appear as **quick action** buttons at the top of the page.  
-
+Provide up to 3 links where a user can perform an action online or download a helpful pdf related to the in-person experience. These links will appear as **quick action** buttons at the top of the page.
 
 ![](https://lh6.googleusercontent.com/u2fmQjmKiDMLiWWs-KJyawZzev8FZ9fvBV4IDGbIbX92G7jW-o7SFEHWmJtOVbSOBeQjIIXKQsQoa1f4mi3F-RpR6a5gt-oTBaUGr0xihCGP4iPQhRX9YZGs1jCurAPwmoeHEUbj)
 

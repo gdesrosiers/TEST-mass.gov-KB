@@ -16,7 +16,7 @@ Like the content quality tab, this tab will also look the same no matter what co
 * “No” responses per 1,000 visitors
 * “Yes” & “No” count
 
-![](../../.gitbook/assets/image%20%2826%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%2826%29.png)
 
 ## **“No” rate**
 
@@ -39,7 +39,7 @@ To read the full text of the comments left on your content, you can use the [in-
 
 ## See it in action
 
-{% embed url="https://youtu.be/5hLqskb0q8s?t=1022" %}
+{% embed url="https://youtu.be/5hLqskb0q8s?t=1022" caption="" %}
 
 ## Was this article helpful?
 

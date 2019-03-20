@@ -6,7 +6,7 @@ You can use your Organization Page to connect readers with your Service Pages, L
 
 Links to your Organization Page may appear:
 
-![Example of a Organization Page ](../../.gitbook/assets/general-org_cropped_screenshot.png)
+![Example of a Organization Page ](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/general-org_cropped_screenshot.png)
 
 * On News items
 * On Events
@@ -20,23 +20,21 @@ You can also refer to it on law library types \(Advisories, Decisions, etc.\).
 ## The Title/Banner and Overview tabs
 
 {% hint style="info" %}
+
 **Important:** To save a draft of an Organization Page, you’ll need to complete these fields:
 
 * Full Name
 * Banner Image
 * Subtype \(General Organization, Elected Official or Board\) 
 * Short Description
-{% endhint %}
 
 ### Title and Short Description
 
-The **Title** and **Short Description** are important because they shape how highly ranked your content is in search engines. Try to use plain, concrete language to describe your organization — imagine what a user might absorb in a quick scan of your content.
+The **Title** and **Short Description** are important because they shape how highly ranked your content is in search engines. Try to use plain, concrete language to describe your organization — imagine what a user might absorb in a quick scan of your content.
 
+![Required fields under the &quot;Title Banner&quot; tab](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/general-org_create-organization_title-banner_screenshot.png)
 
-
-![Required fields under the &quot;Title Banner&quot; tab](../../.gitbook/assets/general-org_create-organization_title-banner_screenshot.png)
-
-![Required fields under the &quot;Overview&quot; tab ](../../.gitbook/assets/general-org_create-organization_overview_screenshot.png)
+![Required fields under the &quot;Overview&quot; tab ](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/general-org_create-organization_overview_screenshot.png)
 
 ### Who we serve
 
@@ -44,7 +42,7 @@ In this field, describe the people and stakeholders your organization serves and
 
 This is not a good place to post staff biographies, extensive organization histories, or long lists of links. Keep in mind that the section appears under the heading “Who we serve,” and that’s what users will expect this section to be about.
 
-The **Subtype** drop-down menu ****allows you to specify if your Organization Page represents a General Organization, Elected Official or a Board. 
+The **Subtype** drop-down menu _\*\*_allows you to specify if your Organization Page represents a General Organization, Elected Official or a Board.
 
 ![](https://cdn-images-1.medium.com/max/1000/1*dAAwKyZEmixdRaXw4WcgqQ.jpeg)
 
@@ -62,15 +60,15 @@ You can link most types of pages in the **Featured Actions & Services** section.
 
 You can also link as many Service Pages as you’d like in the **More Actions & Services** section. If you add more than 6, Mass.gov will automatically [generate a list page like this one](https://www.mass.gov/orgs/department-of-fish-and-game/services) for your Organization Page. Users will get to this listing page by clicking on the “See All Actions & Services” link:
 
-![](../../.gitbook/assets/org-page_featured-services.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/org-page_featured-services.png)
 
-## Map 
+## Map
 
 You can use the map tab to add relevant locations to your organization page. You add locations by selecting one or more Location content type items from the autocomplete field. \(To add a Location you’ll need to create it first.\) If you do not add any locations, the map won’t appear when you publish. [If you do add locations, Mass.gov will automatically generate a listing page like this one](https://www.mass.gov/orgs/massachusetts-registry-of-motor-vehicles/locations) for your Organization Page. Users will get to this listing page by clicking on the “Location Details” link:
 
-###  Location details button label
+### Location details button label
 
-Change the text that leads to your location listing from the generic “Location Details” to something more specific. 
+Change the text that leads to your location listing from the generic “Location Details” to something more specific.
 
 ### Location button short description
 
@@ -84,7 +82,7 @@ Provide a summary or context for the locations. This will appear over the listin
 
 ## News
 
-You can tell Mass.gov to show up to 8 News articles on your Organization Page — 2 in the **Featured news item** section, and up to 6 in the **Automatic** section.
+You can tell Mass.gov to show up to 8 News articles on your Organization Page — 2 in the **Featured news item** section, and up to 6 in the **Automatic** section.
 
 The **Featured** field offers a way to “pin” 2 news articles to your Organization page. Featured news items will appear at the top of your news feed, and they won’t change unless you remove them.
 

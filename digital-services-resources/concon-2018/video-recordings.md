@@ -2,35 +2,35 @@
 
 ## Watching constituents use Mass.gov \[VIDEO\]
 
-{% embed url="https://youtu.be/NkbJg0yNjXk" %}
+{% embed url="https://youtu.be/NkbJg0yNjXk" caption="" %}
 
 ## Strategies for maintaining quality content \[VIDEO\]
 
-{% embed url="https://youtu.be/Iq2PQu61rNk" %}
+{% embed url="https://youtu.be/Iq2PQu61rNk" caption="" %}
 
 ## Creating awesome services \[VIDEO\]
 
-{% embed url="https://youtu.be/FM7I8NPw-ag" %}
+{% embed url="https://youtu.be/FM7I8NPw-ag" caption="" %}
 
 ## Creating interconnected content for users \[VIDEO\]
 
-{% embed url="https://youtu.be/0GoXbOcIf9A" %}
+{% embed url="https://youtu.be/0GoXbOcIf9A" caption="" %}
 
 ## Improving content using Mass.gov authoring tools \[VIDEO\]
 
-{% embed url="https://youtu.be/HudNwwIbc1s" %}
+{% embed url="https://youtu.be/HudNwwIbc1s" caption="" %}
 
 ## Using documents on Mass.gov \[VIDEO\]
 
-{% embed url="https://youtu.be/XYntnu24l7A" %}
+{% embed url="https://youtu.be/XYntnu24l7A" caption="" %}
 
 ## Keynote: Dana Chisnell on the epic journey of American voters \[VIDEO\]
 
-{% embed url="https://youtu.be/DD-eUd\_gpl0" %}
+{% embed url="https://youtu.be/DD-eUd\_gpl0" caption="" %}
 
 ## ConCon 2018: Highlights \[VIDEO\]
 
-{% embed url="https://youtu.be/n8DQQF2DnX0" %}
+{% embed url="https://youtu.be/n8DQQF2DnX0" caption="" %}
 
 ## Was this article helpful?
 

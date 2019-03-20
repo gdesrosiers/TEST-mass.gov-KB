@@ -4,12 +4,12 @@
 
 Topic Pages group together services that are similar but that are owned by different, sometimes unrelated state organizations. This resource will help you understand how Topic Pages work, and how they help Mass.gov achieve its goal of being service-oriented and constituent-centered.
 
-While Topic Pages can only be created by the Digital Services team, you have some control over how Topic Pages preview your content. 
+While Topic Pages can only be created by the Digital Services team, you have some control over how Topic Pages preview your content.
 
 You can request a new Topic Page from the Digital Services team, or request that your content be added to an existing page.
 
 {% hint style="info" %}
- To request a Topic Page, submit a support request through [ServiceNow](https://www.mass.gov/servicenow) that includes your Service Page URLs.
+To request a Topic Page, submit a support request through [ServiceNow](https://www.mass.gov/servicenow) that includes your Service Page URLs.
 {% endhint %}
 
 Currently, only Service Pages and other Topic Pages can be linked to Topic Pages.
@@ -26,13 +26,13 @@ Topic Pages help organize content into broad categories of information. They are
 
 The highest-level, most general Topic Pages on Mass.gov are those at the top of the home page: [Living](https://www.mass.gov/topics/living), [Working](https://www.mass.gov/topics/working), [Learning](https://www.mass.gov/topics/learning), [Visiting & Exploring](https://www.mass.gov/topics/visiting-exploring), and [Your Government](https://www.mass.gov/topics/your-government).
 
-![](../../.gitbook/assets/mass-gov-home-page.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/mass-gov-home-page.png)
 
 ## Topic Pages and your content
 
 Topic Pages don’t have much content of their own. Like most other pages, they have a banner, title, and a short description at the top.
 
-![](../../.gitbook/assets/topic-pages%20%281%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/topic-pages%20%281%29.png)
 
 The rest of the page is made up of previews of content that already exists on the site. Gray cards with short lists of links are previews of other Topic Pages:
 
@@ -46,7 +46,7 @@ If you change one of your service’s **Featured** links, the gray preview cards
 
 You can also add Topic Pages to your Organization Landing Page. They’ll appear under a “Featured Topics” header. This is most useful when your services make up the majority of a Topic Page’s content. However, you can also request that Digital Services create a Topic Page that will only appear on your Organization Page.
 
-![](../../.gitbook/assets/featured-topics.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/featured-topics.png)
 
 ## Was this article helpful?
 

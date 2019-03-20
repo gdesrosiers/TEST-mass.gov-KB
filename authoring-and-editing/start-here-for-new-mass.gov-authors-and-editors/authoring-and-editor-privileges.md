@@ -2,9 +2,9 @@
 
 ## Author and Editor Roles
 
-There are 2 user roles in the Mass.gov Content Management System \(CMS\): Author and Editor. The Author role is ideal for users who should have their work reviewed before it is published. 
+There are 2 user roles in the Mass.gov Content Management System \(CMS\): Author and Editor. The Author role is ideal for users who should have their work reviewed before it is published.
 
-**Authors can:** 
+**Authors can:**
 
 * Draft content
 * Watch content
@@ -27,13 +27,9 @@ Beyond these 2 user roles, permissions can be added to work with specific conten
 
 ## Request a new author or editor account
 
-To create or change an account, a communications director should submit a [ServiceNow support request](https://massgov.service-now.com/sp?id=sc_cat_item&sys_id=0bb8e784dbec0700f132fb37bf9619fe). your request should include: 
+To create or change an account, a communications director should submit a [ServiceNow support request](https://massgov.service-now.com/sp?id=sc_cat_item&sys_id=0bb8e784dbec0700f132fb37bf9619fe). your request should include:
 
 * The name of each user
 * Their state email address
 * Author or editor account
-
-
-
-
 

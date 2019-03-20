@@ -35,7 +35,7 @@ Public Meetings are a special type of Event with some additional sections to hel
 
 You can add a **Posted date** to a Public Meeting, which allows users to compare the date the Public Meeting content was posted to when it was last updated. This is useful if, for example, you want to add meeting minutes after the event is over.
 
-Finally, use the **public testimony** section for important headlines and callouts — if you want to emphasize that you’re inviting people to speak or testify, for example.
+Finally, use the **public testimony** section for important headlines and callouts — if you want to emphasize that you’re inviting people to speak or testify, for example.
 
 ![](https://cdn-images-1.medium.com/max/800/1*f1tELhueU3WDTl4Fk1HB1Q.jpeg)
 
@@ -45,7 +45,7 @@ The **Event Title** and **Listing Description** appear in the Google search resu
 
 ![](https://cdn-images-1.medium.com/max/1000/1*Ns0G_muq-nGbrrMPVzMRQg.jpeg)
 
-Note that the **Listing Description** does not appear on the Event’s full-page display. It’s not a subtitle or short description — it’s just for search engines and social media.
+Note that the **Listing Description** does not appear on the Event’s full-page display. It’s not a subtitle or short description — it’s just for search engines and social media.
 
 ### Logo
 
@@ -71,13 +71,13 @@ In the **Description** section, add a brief summary of what someone who comes to
 
 This field works [the way contact information works across Mass.gov](contact-information-items.md): start typing the name of a Contact Information that you already published and select it from the list that appears.
 
-On the published page, the address — and only the address — from the Contact Information you picked will appear below the title. You can also add Contact information in the **Contacts** tab, which will appear on the right and at the bottom in a dropdown:
+On the published page, the address — and only the address — from the Contact Information you picked will appear below the title. You can also add Contact information in the **Contacts** tab, which will appear on the right and at the bottom in a dropdown:
 
 ![](https://cdn-images-1.medium.com/max/1000/1*LoIIpRHnr3dkvBgFhIrzLw.jpeg)
 
 ### **Unique Address**
 
-Use this field if you don’t want to add a Contact Information item for the event site — if this is the only time you’ll ever hold an event at this location, for example, and you don’t want to create a contact information item on Mass.gov just for this event. The unique address appears below the title.
+Use this field if you don’t want to add a Contact Information item for the event site — if this is the only time you’ll ever hold an event at this location, for example, and you don’t want to create a contact information item on Mass.gov just for this event. The unique address appears below the title.
 
 ![](https://cdn-images-1.medium.com/max/1000/1*GMfSbBlNJew6tqO-NVy7NQ.jpeg)
 
@@ -115,7 +115,7 @@ Users will be able to access these lists from the pages where your events appear
 
 If there are upcoming events, these will come up first. To see all past events, select "See past events". Both the “upcoming” and “past” listing display 10 events per page:
 
-![](../.gitbook/assets/events-mass-gov.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/events-mass-gov.png)
 
 ## Was this article helpful?
 

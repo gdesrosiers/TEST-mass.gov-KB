@@ -2,15 +2,15 @@
 
 ## Summary
 
-You can request a new Topic Page from the Digital Services team, or request that your content be added to an existing page.  To do this, submit a support request through [ServiceNow](https://www.mass.gov/servicenow). 
+You can request a new Topic Page from the Digital Services team, or request that your content be added to an existing page. To do this, submit a support request through [ServiceNow](https://www.mass.gov/servicenow).
 
 Your new topic page can either be linked to the top navigation bar or to your organization page.
 
 {% hint style="warning" %}
-Links included on Topic Pages must be either already existing Topic Pages or Service Pages that follow all Mass.gov editorial guidelines. 
+Links included on Topic Pages must be either already existing Topic Pages or Service Pages that follow all Mass.gov editorial guidelines.
 {% endhint %}
 
-## Requesting a General Topic Page 
+## Requesting a General Topic Page
 
 A general Topic Page will be linked to one of the high-level topics in the top navigation bar of each page. In order to request a general Topic Page, your [ServiceNow](https://www.mass.gov/servicenow) ticket should include the following:
 

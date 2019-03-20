@@ -4,24 +4,24 @@
 
 ### **Step 1: In the navigation menu on the left, click “Quality Assurance”**
 
-![](../../.gitbook/assets/siteimprove_qa_screenshot.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/siteimprove_qa_screenshot.png)
 
 ### **Step 2: Click “Links”**
 
-![](../../.gitbook/assets/siteimprove_links_screenshot.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/siteimprove_links_screenshot.png)
 
 Under links, you’ll find the following options to help you find and repair broken links. Here are the 3 most important menus:
 
 * Summary: View a summary of all content with broken links, including a dashboard with this data. This summary includes 2 lists at the bottom: a list of pages that contain broken links, and a list of links that are broken. Clicking “View all” at the bottom of these lists will take you to the “Pages with Broken Links” and “Broken Links” pages respectively.
 
-![](../../.gitbook/assets/screencapture-my2-siteimprove.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/screencapture-my2-siteimprove.png)
 
 * Pages with Broken Links: A list of content with 1 or more broken links
 * Broken Links: A list of links that are broken.
 
 ### **Step 3: Click “Pages with Broken Links” to see the list of pages that contain broken links**
 
-![](../../.gitbook/assets/siteimprove_broken-links_screenshot.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/siteimprove_broken-links_screenshot.png)
 
 To preview which links are broken on a page, click the arrow in the “broken links” column. This will open a dropdown that previews the broken links on that specific page.
 
@@ -44,7 +44,7 @@ On the left side, you’ll see a toolbar that offers general information about b
 
 ### **Step 5: Figure out why a link is broken**
 
-The “Occurrences on this page” toolbar allows you to view broken links 2 ways. First, “Page content,” which is the default selection, shows you a preview of the page as users see it — except with links that don’t work highlighted in red.
+The “Occurrences on this page” toolbar allows you to view broken links 2 ways. First, “Page content,” which is the default selection, shows you a preview of the page as users see it — except with links that don’t work highlighted in red.
 
 Second, the “HTML” view shows you the content’s source HTML.
 

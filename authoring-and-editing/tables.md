@@ -4,7 +4,7 @@
 
 A data table is a table for organizing and presenting data.
 
-Sometimes web content authors use tables for layout — to position objects and text in space. [While layout tables aren’t inherently inaccessible](https://webaim.org/techniques/tables/), you should avoid using them this way on Mass.gov.
+Sometimes web content authors use tables for layout — to position objects and text in space. [While layout tables aren’t inherently inaccessible](https://webaim.org/techniques/tables/), you should avoid using them this way on Mass.gov.
 
 {% hint style="warning" %}
 As a general guideline, avoid copying and pasting tables from other places. This often generates tables that behave in unexpected and undesired ways. Instead, re-create tables using the table tool, as described below.
@@ -18,7 +18,7 @@ To make a table, find the table tool in a rich text editor. You can find rich te
 
 ![](https://cdn-images-1.medium.com/max/800/1*mmdNelOdKDaa6pKnwPKP8g.png)
 
-Clicking the table tool will open up the “Table Properties” menu. This is where you’ll structure your table. You can tell the CMS how many rows and columns you want, and if you want headers or captions. \(Don’t worry if you mess up — you can edit all of these later.\)
+Clicking the table tool will open up the “Table Properties” menu. This is where you’ll structure your table. You can tell the CMS how many rows and columns you want, and if you want headers or captions. \(Don’t worry if you mess up — you can edit all of these later.\)
 
 ![](https://cdn-images-1.medium.com/max/800/1*3QDH4QT25RtU7lm3AWOGHw.png)
 
@@ -26,7 +26,7 @@ Clicking the table tool will open up the “Table Properties” menu. This is wh
 
 **Headers:** You can choose to use headers for your table’s columns, rows, or both. Headers are important for 2 reasons. First, they help users distinguish between labels for data and data itself.
 
-Second, [headers are important for screen readers, tools that help those who have trouble seeing or reading interact with your content](https://www.youtube.com/watch?v=q_ATY9gimOM). Screen readers can cycle through table headers and columns to help users navigate tables — but only if those headers are formatted as headers \(and not, for example, using bold or italics\).
+Second, [headers are important for screen readers, tools that help those who have trouble seeing or reading interact with your content](https://www.youtube.com/watch?v=q_ATY9gimOM). Screen readers can cycle through table headers and columns to help users navigate tables — but only if those headers are formatted as headers \(and not, for example, using bold or italics\).
 
 Here’s how row and column headers appear on Mass.gov:
 

@@ -10,17 +10,17 @@ In the meanwhile, to ensure the dashboards and CMS show accurate data, the dashb
 
 ## Summary
 
-You can see a high-level overview of how your content is performing on Mass.gov by visiting the All content screen in the CMS. 
+You can see a high-level overview of how your content is performing on Mass.gov by visiting the All content screen in the CMS.
 
-![](../.gitbook/assets/all-content-scores.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/all-content-scores.png)
 
 When viewing the All content page, you'll see 2 columns labeled "score" and "page views \(1 month\)." The scores column will display a page's overall score for the previous calendar month. The page views column will display traffic to your page over the previous 30 days.
 
 {% hint style="info" %}
-**Note:** Currently, only content types that feature custom Analytics Dashboards \(Beta\) will display an overall score in the score column: Service, Service Details, and How-to pages. 
+**Note:** Currently, only content types that feature custom Analytics Dashboards \(Beta\) will display an overall score in the score column: Service, Service Details, and How-to pages.
 {% endhint %}
 
-Click on a score to access that page’s overall performance dashboard. Scores 2.0 and below will appear in red so you can quickly determine which pages you may want to focus on first. If you none of you're content us scoring below a 2, it's a good idea to begin with scores below a 3. 
+Click on a score to access that page’s overall performance dashboard. Scores 2.0 and below will appear in red so you can quickly determine which pages you may want to focus on first. If you none of you're content us scoring below a 2, it's a good idea to begin with scores below a 3.
 
 {% hint style="danger" %}
 **Important:** Scores are displayed for the previous full month. For example, if you created a page on Nov. 7 a score won't display for that page until Dec. 1.
@@ -30,7 +30,7 @@ Click on a score to access that page’s overall performance dashboard. Scores 2
 
 ### Filter your search
 
-Since there’s a lot of data on this screen, we recommend you filter by your organization and then by scores. You can of course narrow down your results further by using additional filters, but this will give you the broadest overview of your organization's performance. 
+Since there’s a lot of data on this screen, we recommend you filter by your organization and then by scores. You can of course narrow down your results further by using additional filters, but this will give you the broadest overview of your organization's performance.
 
 ![](https://lh3.googleusercontent.com/z49bs9g5ahMFrzXEQrwu7VQEpJsKLTDH71d1kTkvSBJImb4DGb0DeGLGHbxhxRyoAQGBH_AVwqCN1lmNr9jnR6CIY2kpVLvOn6BiCcOd-yfSoVb9sSXAEiOR2s7YW523Jsjfotsx)
 
@@ -42,9 +42,9 @@ Since there’s a lot of data on this screen, we recommend you filter by your or
 
 Once you’ve filtered your search, you can sort by scores or page views by clicking on either header above the columns.
 
-When it comes to content improvement, it's best to target the pages with the lowest scores that are getting the most traffic. To see which of your pages have the most page views, click on the page views header and make sure the arrow is pointing down. 
+When it comes to content improvement, it's best to target the pages with the lowest scores that are getting the most traffic. To see which of your pages have the most page views, click on the page views header and make sure the arrow is pointing down.
 
-![](../.gitbook/assets/scores-traffic-sort.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/scores-traffic-sort.png)
 
 Starting from the top and working your way down, look for red scores. If there aren't any, we suggest you target scores lower than 3.0 first.
 

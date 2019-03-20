@@ -12,7 +12,7 @@ In the meanwhile, to ensure the dashboards and CMS show accurate data, the dashb
 
 Content Quality is scored in 2 areas: broken links and readability. This is the category that will tell you if you are providing content that is easy for visitors to read and understand.
 
-![](../../.gitbook/assets/image%20%2825%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%2825%29.png)
 
 Siteimprove updates these indicators on the first of every month. This tool can highlight difficult words, misspellings, and broken links for you, making them all easy to fix. If you would like to create a Siteimprove account, please let us know by submitting a [ServiceNow support request](https://massgov.service-now.com/sp?id=sc_cat_item&sys_id=0bb8e784dbec0700f132fb37bf9619fe).
 
@@ -32,7 +32,7 @@ The targeted readability for Mass.gov content is Grade 6, but we know this is mo
 
 ## See it in action
 
-{% embed url="https://youtu.be/5hLqskb0q8s?t=888" %}
+{% embed url="https://youtu.be/5hLqskb0q8s?t=888" caption="" %}
 
 ## Was this article helpful?
 

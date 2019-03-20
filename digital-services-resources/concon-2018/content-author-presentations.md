@@ -6,13 +6,13 @@ Learn what strategies and best practices other content creators use to maintain 
 
 {% embed url="https://drive.google.com/open?id=16rj3uhKTqlrGPZwsIyR15fayYyniFZuTul4VV7tBO\_8" caption="" %}
 
- 🎥 [**Video recording available**](video-recordings.md#strategies-for-maintaining-quality-content-video)
+🎥 [**Video recording available**](video-recordings.md#strategies-for-maintaining-quality-content-video)
 
 ## Improving content using Mass.gov authoring tools
 
-Digital Services provides tools for Mass.gov authors and editors to improve their content based on constituents' feedback and usage data. In this session you will learn how EEA, DPH, and the Office of the State Auditor effectively use these tools to improve content. Specifically, they will be talking about how they leverage [Analytics Dashboards \(Beta\)](../../tools-for-improving-your-content/analytics-dashboards-beta/), [Feedback Manager](../../tools-for-improving-your-content/feedback-manager.md), [Pages Linking Here](../../tools-for-improving-your-content/pages-linking-here.md), [Siteimprove](../../tools-for-improving-your-content/siteimprove/), and Google Analytics. 
+Digital Services provides tools for Mass.gov authors and editors to improve their content based on constituents' feedback and usage data. In this session you will learn how EEA, DPH, and the Office of the State Auditor effectively use these tools to improve content. Specifically, they will be talking about how they leverage [Analytics Dashboards \(Beta\)](../../tools-for-improving-your-content/analytics-dashboards-beta/), [Feedback Manager](../../tools-for-improving-your-content/feedback-manager.md), [Pages Linking Here](../../tools-for-improving-your-content/pages-linking-here.md), [Siteimprove](../../tools-for-improving-your-content/siteimprove/), and Google Analytics.
 
-{% embed url="https://drive.google.com/open?id=1dXbMYbKFjjupwKHE1pIKlmNHyT3Lf3I7aytoh8r-H8M" %}
+{% embed url="https://drive.google.com/open?id=1dXbMYbKFjjupwKHE1pIKlmNHyT3Lf3I7aytoh8r-H8M" caption="" %}
 
 \_\_🎥 [**Video recording available**](video-recordings.md#improving-content-using-mass-gov-authoring-tools-video)
 

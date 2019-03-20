@@ -28,7 +28,7 @@ If a particular role is currently vacant, you can check the **Position Is Vacant
 
 ![In &quot;edit,&quot; check the &quot;Position is Vacant&quot; box to mark a position as vacant. ](https://cdn-images-1.medium.com/max/800/0*5AHM5BiWvAU6Xx-p)
 
- This will cause “Vacant” to appear under the role or title:
+This will cause “Vacant” to appear under the role or title:
 
 ![Here&apos;s what a vacant position appears like for constituents.](https://cdn-images-1.medium.com/max/800/0*cod08GCdcl0NrT4-)
 

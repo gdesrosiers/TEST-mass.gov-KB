@@ -20,7 +20,7 @@ Or even…
 
 Guides have been designed for content that can be broken into steps, or that’s interrelated. If you need to make a list, use a [Curated List](curated-lists/). By the end of July 2018, you’ll also be able to make a directory of contact info using a Curated List.
 
-A Guide _might_ work for an FAQ — but only in situations where your audience is likely to need answers to most of the questions. For example, you might make a Guide that covers questions users might have about a complicated application process.
+A Guide _might_ work for an FAQ — but only in situations where your audience is likely to need answers to most of the questions. For example, you might make a Guide that covers questions users might have about a complicated application process.
 
 However, you should avoid using Guides to address questions about _all_ your organization’s application processes. Dumping lots of information into a single page creates a frustrating experience for users, who have to scroll or hunt for what they want to find.
 
@@ -47,7 +47,7 @@ If you’re using a Guide because you’re struggling with long form content, co
 
 ### Title and Guide intro
 
-The **Title** and **Guide intro** will be the first things your visitors see. In fact, they’ll often see them before they see your page, because these fields will appear in search engine results. 
+The **Title** and **Guide intro** will be the first things your visitors see. In fact, they’ll often see them before they see your page, because these fields will appear in search engine results.
 
 In the intro, offer a brief, high-level overview of what information can be found in the Guide. It’s important they be written clearly and in plain language. Try to write them using the words you think your audience would enter into a search engine to find them.
 
@@ -65,9 +65,7 @@ Most of your information will be contained in sections. As a general rule, none 
 
 You can create a 1-column or 3-column section. You may only add Contact Information to 1-column sections. In general, we recommend 1-column sections, as 3-column sections can be challenging to read. For mobile users, 3-column sections will be collapsed into 1-column sections.
 
-
-
-![](../.gitbook/assets/guide_contact_screenshot%20%281%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/guide_contact_screenshot%20%281%29.png)
 
 Each time you create a section, its title will appear in your Guide’s table of contents:
 
@@ -79,29 +77,21 @@ This is a "sticky" table of contents, meaning it will remain on the top of the s
 
 Complete this if there is a consistent amount of time users should expect that task to take. Here’s what it will look like for users:
 
-
-
-![](../.gitbook/assets/guides_time-callout_screenshot.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/guides_time-callout_screenshot.png)
 
 ### Stats, alerts, and key actions
 
 Use the stat field to highlight a takeaway statistic. Your section’s title and stat work together to make your guide scannable:
 
-
-
-![](../.gitbook/assets/guide_stats_screenshot.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/guide_stats_screenshot.png)
 
 **Alerts** can help emphasize important deadlines and reminders:
-
-
 
 ![](https://cdn-images-1.medium.com/max/800/1*uEay-olFqZhZyxDQr4x4ZQ.jpeg)
 
 Use the **Key actions** to link users to more detailed pages, such as Service Details or How-tos. Using **Key action** links this way can help you limit how much content you need to include in each section, and reduce how much content users have to scroll through.
 
-
-
-![](../.gitbook/assets/guides_key-actions_screenshot.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/guides_key-actions_screenshot.png)
 
 ## Was this article helpful?
 

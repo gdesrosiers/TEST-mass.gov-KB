@@ -21,7 +21,7 @@ Currently, Mass.gov supports videos hosted by YouTube and by Vimeo. The steps to
 
 Find the "Sections" tab and click "Add Video":
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%2813%29.png)
 
 ### On Information Details
 
@@ -29,19 +29,19 @@ Find the "Sections" tab and click "Add Video":
 2. Click "Section Content"
 3. Click "Add Video"
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%2818%29.png)
 
 ### On News items
 
 Click the "Main Content" tab, and then click "Add Video":
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%2816%29.png)
 
 ### On Service Pages
 
 Find the "Overview" tab & then click either "Add new file" or "Add existing file:
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%2823%29.png)
 
 ## Add a new video
 
@@ -58,11 +58,11 @@ Choose this option if you want to add a video you've never added to a Mass.gov p
 2. Enter the title or part of the title in **Media name contains**:
 3. Check the box to the left of the correct video and click "Select"
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%288%29.png)
 
 \(Optional\) 4. If you need to update any of the information about the video, click the "edit" button
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%285%29.png)
 
 ## Was this article helpful?
 

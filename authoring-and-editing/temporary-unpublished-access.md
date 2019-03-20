@@ -14,7 +14,7 @@ Find the Temporary Unpublished Access menu on the right side of your draft, and 
 
 The **Lifetime** dropdown allows you to choose how long you want the temporary link to work. The link will be always be to the latest draft of the page. This means that a link with an “unlimited” lifetime will continue to provide access to the latest version of that page.
 
-When you’ve made your choice, click “Get link.” You can take away access by deleting an existing link. Open the Temporary Unpublished Access menu to see the links you’ve created and to access the Delete button for each of them. 
+When you’ve made your choice, click “Get link.” You can take away access by deleting an existing link. Open the Temporary Unpublished Access menu to see the links you’ve created and to access the Delete button for each of them.
 
 ![](https://cdn-images-1.medium.com/max/800/1*OMyfUur2VPmtWRk8wodq4Q.png)
 
@@ -22,7 +22,7 @@ When you’ve made your choice, click “Get link.” You can take away access b
 
 This link is temporary. \(Sometimes it’s called a “token.”\) It works a little bit like coin-operated binoculars at the top of a mountain: once activated, it allows users to see something they otherwise couldn’t for a period of time.
 
-Next, click “Copy to clipboard.” Don’t send it yet, though — there’s one more important step.
+Next, click “Copy to clipboard.” Don’t send it yet, though — there’s one more important step.
 
 ![](https://cdn-images-1.medium.com/max/800/1*ZVilCd3yY9-8xg0by4rMjQ.png)
 

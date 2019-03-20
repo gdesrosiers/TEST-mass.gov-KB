@@ -56,7 +56,7 @@ Open your form in Formstack and click the “Publish” tab. Copy the code that 
 
 #### **Step 5: Make sure the process is working smoothly**
 
-Since you’re coordinating between 2 tools — Mass.gov and Formstack — it’s a good idea to try to submit a form yourself to make sure everything works the way you want it to. Some things that can go wrong include:
+Since you’re coordinating between 2 tools — Mass.gov and Formstack — it’s a good idea to try to submit a form yourself to make sure everything works the way you want it to. Some things that can go wrong include:
 
 * If you forget to change your Service Detail page’s URL from “edit” to “www” in Formstack, users won’t be able to access it.
 * If you forget to publish the Service Detail page, users won’t be able to access it.
@@ -93,13 +93,13 @@ You may want to edit the message that Formstack normally displays to tell users 
 
 ![](https://cdn-images-1.medium.com/max/1000/1*G8UiDT39gtyL4fzPgT1_CA.jpeg)
 
-3. Select the middle option, “Display a custom message.” Enter the text you want users to read after they’ve successfully submitted a form, and then “Save Submission Message.”
+1. Select the middle option, “Display a custom message.” Enter the text you want users to read after they’ve successfully submitted a form, and then “Save Submission Message.”
 
 ![](https://cdn-images-1.medium.com/max/1000/1*3cjUXT0lULKq9d8WKXc43g.jpeg)
 
 #### **Step 3: Make sure the process is working smoothly**
 
-Since you’re coordinating between 2 tools — Mass.gov and Formstack, it’s a good idea to try to submit a form yourself to make sure everything works the way you want it to.
+Since you’re coordinating between 2 tools — Mass.gov and Formstack, it’s a good idea to try to submit a form yourself to make sure everything works the way you want it to.
 
 ## Was this article helpful?
 

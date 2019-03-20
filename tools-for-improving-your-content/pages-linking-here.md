@@ -20,31 +20,31 @@ Using “Pages Linking Here” differs slightly depending on whether you’re re
 
 Go to “My Content” or “All Content” to find the page you want to check.
 
-![](../.gitbook/assets/content-mass-gov-y.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/content-mass-gov-y.png)
 
 #### Step 2:
 
 Click either the title of a page on the left or the “Edit” button on the right.
 
-![](../.gitbook/assets/screencapture-edit.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/screencapture-edit.png)
 
 **Step 3:**
 
 If you click the title, you will find the “Pages Linking Here” tab at the top right of the screen between the “View” and “Edit Draft” tabs on the menu bar.
 
-![](../.gitbook/assets/importing-and-exporting-pets-mass-gov.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/importing-and-exporting-pets-mass-gov.png)
 
 #### **Step 4:**
 
 If you click on the “Edit” button for a non-document content type, such as a Service Detail page or Contact, you will find the “Pages Linking Here” tab between the “View” and “New Draft” tabs at the top left of the CMS editing fields.
 
-![](../.gitbook/assets/edit-service-details-trade-program-services-for-employers-mass-gov.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/edit-service-details-trade-program-services-for-employers-mass-gov.png)
 
-#### Step 5: 
+#### Step 5:
 
 Once you’ve accessed “Pages Linking Here,” you’ll see a screen that shows pages that link to this page and the content type of those pages. Keep in mind that the list below does not include links embedded through a rich text editor.
 
-![](../.gitbook/assets/pages-linking-here-mass-gov.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/pages-linking-here-mass-gov.png)
 
 #### Step 6:
 
@@ -56,7 +56,7 @@ You can use “Pages Linking Here” to gain insights into whether your content 
 
 If you’re reviewing a piece of content with “Pages Linking Here” and find that links to the content don’t appear on any pages, then you’ll see the following:
 
-![](../.gitbook/assets/pages-linking-here-mass-gov-1.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/pages-linking-here-mass-gov-1.png)
 
 This means you’ll have some work to do to improve your content connectivity.
 
@@ -66,25 +66,25 @@ This means you’ll have some work to do to improve your content connectivity.
 
 Go to “All Documents” in the main CMS menu to locate the document you want to check for page links.
 
-![](../.gitbook/assets/all-documents-mass-gov-x.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/all-documents-mass-gov-x.png)
 
 #### Step 2:
 
 Click the “Edit” button on the far right to access “Pages Linking Here.” \(Don’t click the title/permalink unless you simply want to view the document.\)
 
-![](../.gitbook/assets/all-documents-mass-gov-y.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/all-documents-mass-gov-y.png)
 
-#### Step 3: 
+#### Step 3:
 
 You’ll find the “Pages Linking Here” tab between the “View” and “Edit” tabs at the top left of the CMS editing fields.
 
-![](../.gitbook/assets/edit-document-college-memo-mass-gov.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/edit-document-college-memo-mass-gov.png)
 
 #### Step 4
 
 When you click the “Pages Linking Here” tab, you’ll see a list of the pages that link to the document and the content type of those pages. Click the page title to see where the document is linked on the page.
 
-![](../.gitbook/assets/pages-linking-here-mass-gov-xy.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/pages-linking-here-mass-gov-xy.png)
 
 ## Was this article helpful?
 

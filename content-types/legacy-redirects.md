@@ -10,22 +10,18 @@ A redirect directs web traffic from one URL to another. In the Mass.gov CMS, red
 ## How to create a redirect
 
 1. Find Legacy Redirect in the **Add Content** menu.
-
-* If you don’t see Legacy Redirect**,** you might not have permission to make one. You can request permission by [submitting a ServiceNow support request](https://massgov.service-now.com/sp?id=sc_cat_item&sys_id=0bb8e784dbec0700f132fb37bf9619fe). Depending on your author status, we might ask you to reach out to your supervisor before granting permission.
-
-2. Copy and paste the legacy URL into the **Legacy URL** field.
-
-* You can send more than one legacy URL to each new page. To add another, click **Add Another Item**, and enter your second legacy URL.
-* Begin typing the name of your new page in the **Drupal Page** field. You will not be able to enter a page that is not published.
-* Notice that this field has a “o” on the right side. This means it’s an autofill field: you will be able to select your page by title. Type the first few letters of the page’s title, and then select from the list.
-
-3. Make sure that the **Environment** field is set to **Staging and Production**.
+2. If you don’t see Legacy Redirect**,** you might not have permission to make one. You can request permission by [submitting a ServiceNow support request](https://massgov.service-now.com/sp?id=sc_cat_item&sys_id=0bb8e784dbec0700f132fb37bf9619fe). Depending on your author status, we might ask you to reach out to your supervisor before granting permission.
+3. Copy and paste the legacy URL into the **Legacy URL** field.
+4. You can send more than one legacy URL to each new page. To add another, click **Add Another Item**, and enter your second legacy URL.
+5. Begin typing the name of your new page in the **Drupal Page** field. You will not be able to enter a page that is not published.
+6. Notice that this field has a “o” on the right side. This means it’s an autofill field: you will be able to select your page by title. Type the first few letters of the page’s title, and then select from the list.
+7. Make sure that the **Environment** field is set to **Staging and Production**.
 
 Then, when you’re ready, publish the page. Expect 1–2 hours before you can see your redirect working.
 
 ### Need to see it to learn it?
 
-{% embed url="https://www.youtube.com/watch?v=i5KtbZ\_1nv8" %}
+{% embed url="https://www.youtube.com/watch?v=i5KtbZ\_1nv8" caption="" %}
 
 ## Redirects are an important part of your content strategy
 

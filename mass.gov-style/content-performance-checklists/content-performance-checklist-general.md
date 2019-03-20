@@ -11,7 +11,7 @@
 
 * [Make sure documents are linked correctly.](../../authoring-and-editing/documents/)
 * Is this page addressing multiple audiences? It might be better off as multiple pages \(e.g. one for businesses and one for individuals\).
-* Write the **Short Description** or **Overview** \(if it has one\) ****so that they tell users what they can do or find on the page.
+* Write the **Short Description** or **Overview** \(if it has one\) _\*\*_so that they tell users what they can do or find on the page.
 * Add key links to the **Quick Actions** or **Key Actions** sections if applicable.
 * Fill out the **Contacts** and **Offered By** sections \(if it has them\).
 * If you link to an application or website off Mass.gov, explain what users can do at the off-site application or website.

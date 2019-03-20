@@ -18,7 +18,7 @@ On this tab, you’ll see:
 * Important sources
 * Entrance and exit URLs
 
-![](../../.gitbook/assets/dashboards-new-overview-3.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/dashboards-new-overview-3.png)
 
 ## **Traffic**
 
@@ -35,7 +35,7 @@ The second set of charts will show you your percentage of traffic from important
 
 A parent page is a page that links to other pages in a way that creates a relationship. For example, a Service page is a parent page to pages that are linked in the **Top Tasks**, **All other Tasks**, or **What would you need to know** sections. These pages are also called child or children pages. When you’re on the child page, you’ll see a button that shows how this page is related to other pages.
 
-![](../../.gitbook/assets/image%20%2827%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%2827%29.png)
 
 Your organic traffic will benefit from using terms common to your audience. The better your keywords are, the better your search engine traffic will be. Sometimes the more technical names for things aren’t the words visitors use when searching.
 
@@ -52,7 +52,7 @@ Other Mass.gov pages might show up here because they are related links. Direct t
 
 ## See it in action
 
-{% embed url="https://youtu.be/5hLqskb0q8s?t=1384" %}
+{% embed url="https://youtu.be/5hLqskb0q8s?t=1384" caption="" %}
 
 ## Was this article helpful?
 

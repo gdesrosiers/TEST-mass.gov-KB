@@ -14,7 +14,7 @@ The Curated List lets you create a page of 1 or more lists. You can include the 
 * Contact Information
 * Person
 
-This resource will help you create useful listing pages. 
+This resource will help you create useful listing pages.
 
 Also, since working with Curated Lists often means working with documents, it might help to [be familiar with how documents function on Mass.gov](../../authoring-and-editing/documents/).
 
@@ -53,7 +53,7 @@ You can include multiple labels in any single list.
 Your organization’s content might be similar to another organization’s content. Creating distinct, descriptive labels ensures you’re only including the content you intend to have in a specific listing page. For example, maybe your labels include your organization acronym and a note about which list\(s\) you want them to appear on.
 
 _**Bad example: Emergency Preparedness  
-Good example: DPH — Emergency Preparedness — Documents and Forms**_
+Good example: DPH — Emergency Preparedness — Documents and Forms**_
 
 #### **Label as you create and publish**
 
@@ -94,7 +94,7 @@ You can also choose “Description from document item.” This will display what
 
 ![](https://cdn-images-1.medium.com/max/800/1*7cgpJ3JWSvtE4wvFKq2fVQ.png)
 
-#### **Tip: More on “blocks” of content** 
+#### **Tip: More on “blocks” of content**
 
 If you’ve created a block of content \(see above\) in a manual list, the dropdown will apply to everything in that block. For example, if you upload 6 documents at the same time, and choose “none” for **description type**, then none of the items will appear with descriptions.
 

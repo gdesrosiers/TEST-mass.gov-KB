@@ -4,7 +4,7 @@
 
 ### **Step 1: Log in, find the navigation menu on the left, and click “Quality Assurance.”**
 
-![](../../.gitbook/assets/siteimprove_qa_screenshot.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/siteimprove_qa_screenshot.png)
 
 ### **Step 2: Click “Readability.”**
 
@@ -16,7 +16,7 @@
 
 You’ll see a list of your pages ranked by readability score from highest to lowest grade level. You can look for a specific page by entering a page title or URL in the search bar at the upper right of the list:
 
-![](../../.gitbook/assets/pages-readability-quality-assurance.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/pages-readability-quality-assurance.png)
 
 ### **Step 4: Select a page**
 

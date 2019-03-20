@@ -4,5 +4,3 @@
 
 {% page-ref page="directory-people-and-contacts-subtype.md" %}
 
-
-

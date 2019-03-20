@@ -14,12 +14,12 @@ Since the Mass.gov CMS offers several long form content types, it might help to 
 * You might also want to combine multiple Information Details into a [Binder](binders.md), where you can encourage users to read them in a specific order
 
 {% hint style="info" %}
+
 To save a draft of your Information Details, you’ll need:
 
 * A **title**
 * A **short description**
 * At least 1 content **section** \(**note:** The table of contents will only appear if you have at least 3 sections\).
-{% endhint %}
 
 The best place to link Information Details are:
 
@@ -31,7 +31,7 @@ The best place to link Information Details are:
 
 The Information Detail offers more media options than other Mass.gov content types.
 
-Your header can include an image, iFrame, or a video — but only one at a time. To switch from one header media type to another, click the “remove” button, and then the “confirm removal” button.
+Your header can include an image, iFrame, or a video — but only one at a time. To switch from one header media type to another, click the “remove” button, and then the “confirm removal” button.
 
 ![](https://cdn-images-1.medium.com/max/800/1*vtIqyovCc3oogkOkg6ex7w.png)
 
@@ -39,7 +39,7 @@ Your header can include an image, iFrame, or a video — but only one at a t
 
 ### **Adding images**
 
-If you choose an image for your **Header media** option, it will display at 1600 pixels wide. This is the same width as the Organization Page’s banner. Please note that the display will adapt to the height of your image — there’s currently no limit. A good place to begin might be 1600 x 400 pixels.
+If you choose an image for your **Header media** option, it will display at 1600 pixels wide. This is the same width as the Organization Page’s banner. Please note that the display will adapt to the height of your image — there’s currently no limit. A good place to begin might be 1600 x 400 pixels.
 
 ### **Adding iFrames**
 
@@ -85,7 +85,7 @@ Within each section, you’ll have several tools to help you present your conten
 
 You can add an image, a video, or an iFrame using the same steps described above.
 
-You can also add a rich text section — or a block of formatted text. 
+You can also add a rich text section — or a block of formatted text.
 
 The other 2 options are the “pull quote” and the “stat.” Pull quotes “pull out” a section of text to emphasize it. You’ve probably seen this in news writing. Pull quotes underscore the point of your content, and they help visually break up long sections of text.
 
@@ -97,15 +97,15 @@ Stats also callout important information and allow you to visually break up cont
 
 ## **How users will use the table of contents**
 
-Information Details have “sticky” tables of contents — or tables of contents that come along for the ride when a user scrolls.
+Information Details have “sticky” tables of contents — or tables of contents that come along for the ride when a user scrolls.
 
 As the users scrolls past the table of contents at the top, the table collapses:
 
-![Info Detail Page with collapsed table of contents](../.gitbook/assets/info-details_toc-collapse_screenshot_marked.png)
+![Info Detail Page with collapsed table of contents](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/info-details_toc-collapse_screenshot_marked.png)
 
 However, users can click the blue “Table of Contents” button to see a list of all the Information Detail’s headings:
 
-![](../.gitbook/assets/info-detail_toc-expanded_screenshot_marked2.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/info-detail_toc-expanded_screenshot_marked2.png)
 
 ## Managing and moving blocks of content
 

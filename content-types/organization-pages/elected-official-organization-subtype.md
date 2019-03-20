@@ -18,7 +18,7 @@ Elected Official Pages have an “About” row aimed at helping users get to kno
 
 ## Person / Bio field
 
-Add a [Person item](../person-items.md) here. You may need to create or update an existing Person to include a bio section.  The CMS will create a link to this bio beneath the portrait:
+Add a [Person item](../person-items.md) here. You may need to create or update an existing Person to include a bio section. The CMS will create a link to this bio beneath the portrait:
 
 ![](https://cdn-images-1.medium.com/max/800/1*9RLcw13BaG3cYCLjCHzoFQ.jpeg)
 
@@ -36,9 +36,9 @@ Whatever you add to the **About summary** field will appear for the user under t
 
 To create a biography page, you’ll need to create or update a [Person item](../person-items.md). Find and check the checkbox under the Organization field. This will create a new tab called “Bio Page”.
 
-![Create a bio page for a Person item by checking the &quot;Publish a bio page&quot; selection.](../../.gitbook/assets/person_bio-page_screenshot_marked%20%281%29.png)
+![Create a bio page for a Person item by checking the &quot;Publish a bio page&quot; selection.](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/person_bio-page_screenshot_marked%20%281%29.png)
 
- In the "Bio Page" tab, you can add information about the official, including:
+In the "Bio Page" tab, you can add information about the official, including:
 
 * A main content area for biographical info, achievements, etc.
 * Social media links

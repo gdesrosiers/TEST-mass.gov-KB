@@ -6,7 +6,7 @@ You can think of Mass.gov’s search as a filtered Google search: A Google searc
 
 You can use the dropdown next to the search bar to narrow your search to a single organization's content:
 
-![](../../.gitbook/assets/image%20%2829%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%2829%29.png)
 
 You can also narrow search results by clicking one of these tabs at the top of the page:
 
@@ -20,15 +20,15 @@ You can also sort your results by
 * Date — orders results from most to least recent
 * Relevance — orders results according to what Google believes best matches your search
 
-![](../../.gitbook/assets/image%20%2819%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%2819%29.png)
 
 In addition, the “News” and “Laws & Regulations” tabs have their own sets of filters. When searching for news, users can narrow by type of news and a date range. Recently posted news will appear on the right.
 
-![](../../.gitbook/assets/image%20%2820%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%2820%29.png)
 
 Similarly, when searching for laws & regulations, users can filter by state organization, type of policy or regulation, and by date range:
 
-![](../../.gitbook/assets/image%20%2831%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%2831%29.png)
 
 ## **How does Google know what’s relevant? \(Does it think my content is relevant?\)**
 
@@ -40,7 +40,7 @@ Examples: Use “get” instead of “obtain” and “stop” instead of “ter
 
 * If you have to use a technical term, define it early in your content using the language your user would use.
 
-Example: “Fill out a Form 3B, _or the form that helps you apply for \_\_\_\_\_\_\_\_\_._”
+Example: “Fill out a Form 3B, _or the form that helps you apply for \_\_\_\_\_\_\_\_\_.\_”
 
 * Make sure it’s easy to distinguish your content from other Mass.gov content. Some words, such as “license,” “apply,” and “form” are important for lots of government organizations. It’s also a good idea to Google your own content to see what comes up. You might even find a legacy page that should be redirected. [Learn how to use Legacy Redirects.](../../content-types/legacy-redirects.md)
 * Google is allergic to broken links. Make sure yours work.

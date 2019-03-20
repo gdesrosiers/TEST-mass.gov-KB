@@ -19,23 +19,23 @@ Once we’ve determined what needs to be done, we’ll move an issue to the **Qu
 Each issue is represented by a “card.” As we make progress on an issue internally, we’ll move that issue’s card across the columns.
 
 {% hint style="info" %}
+
 Want to dive in right away? Here’s how in 4 easy steps:
 
 1. [Create a GitHub account](https://github.com/join?source=header-repo) and log in.
 2. Head over to the [Feature Request board](https://github.com/massgov/feature-requests/projects/3)
 3. Click on an issue to review, vote for, or comment on existing requests...
 4. ...or [create your own feature request](https://github.com/massgov/feature-requests/issues/new/choose)
-{% endhint %}
 
 ## Explore the issues
 
 Clicking a card’s title will bring up a preview of that issue on the right side of your browser. If an issue has a long description, or if you want to read what others have said about the issue, click the “full details” button at the bottom of the preview. The full details view includes all the comments that others have added to the issue.
 
-![](../../.gitbook/assets/feature-request-1.jpg)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/feature-request-1.jpg)
 
 Use the search bar in the upper right to search for issues that interest you. Anything you enter will filter out all cards that don’t include your search term\(s\).
 
-![](../../.gitbook/assets/feature-request-1.5.jpg)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/feature-request-1.5.jpg)
 
 You can also filter by label. At the bottom of each card you’ll see 1 or more labels, which describe the issue and/or what the issue affects. Clicking a label will tell the board to show you only the cards that include that label. You can also use the search bar to search for a label by typing “label: ” and the subject. For example, if you’re interested in image-related issues, you would search for “label: images.”
 
@@ -55,7 +55,7 @@ You’ll see your reaction appear beneath the previews’ issue description.
 
 From the full details view, you can add a reaction to the main issue description and to any of the comments on the issue. To do this, find the gray smiley face dropdown in the upper right of the description or commend and choose your preferred emoji.
 
-![](../../.gitbook/assets/feature-request-3.jpg)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/feature-request-3.jpg)
 
 You can also write a comment in the box at the bottom of the issue’s detailed view. You can delete and edit comments once you’ve posted them.
 

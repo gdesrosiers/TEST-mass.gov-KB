@@ -2,9 +2,9 @@
 
 ## Summary
 
-You can use the [editing toolbar \(rich text editor\)](editing-toolbar.md) to add images to your pages. Many content types have fields with rich text editors — the authoring interface with formatting buttons at the top. For example, the **Overview** on a service details page is a rich text editor field.
+You can use the [editing toolbar \(rich text editor\)](editing-toolbar.md) to add images to your pages. Many content types have fields with rich text editors — the authoring interface with formatting buttons at the top. For example, the **Overview** on a service details page is a rich text editor field.
 
-You can either upload a new image or add an image you've used before. 
+You can either upload a new image or add an image you've used before.
 
 ### Important things to know about embedding an image
 
@@ -18,19 +18,19 @@ You can either upload a new image or add an image you've used before.
 
 Click on the "Insert Image" button in any rich text field.
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%284%29.png)
 
 #### **Step 2**
 
 Click on the **Select files** button to browse your computer for the image you’d like to upload.
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%283%29.png)
 
 #### **​Step 3**
 
-Once you’ve selected an image from your computer, it will appears in the **File upload** window. 
+Once you’ve selected an image from your computer, it will appears in the **File upload** window.
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%2814%29.png)
 
 **Step 4**
 
@@ -38,19 +38,19 @@ Click the **Use selected** button. If you're using a smaller screen, you might h
 
 **Step 5**
 
-A menu will appear with display options. 
+A menu will appear with display options.
 
 First, choose whether you want your image to display at full or half width.
 
 Next, add your alternative text. Alternative text isn’t a caption. It replaces the image for users who don’t see it. Users with screen readers will hear this text instead of seeing the image, and if the image doesn’t load for any reason, the alternative text will appear instead. Alternative text should provide the same information as the image, so be sure it clearly substitute for whatever the image conveys.
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%281%29.png)
 
 **Step 6**
 
 Your image should now be visible in your rich text field and will appear on the page when you save.
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%287%29.png)
 
 ## Add an image you've used before
 
@@ -58,45 +58,45 @@ Your image should now be visible in your rich text field and will appear on the 
 
 Click on the "Insert Image" button in any rich text field.
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%284%29.png)
 
 #### Step 2
 
 Click the "File listing" tab at the top left.
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%2822%29.png)
 
-####  Step 3
+#### Step 3
 
 Search for the image by filename.
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%2810%29.png)
 
-####  Step 4
+#### Step 4
 
 Click the image you want to use. It will appear at the bottom of the image browser.
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%282%29.png)
 
-####  Step 5
+#### Step 5
 
 Click the "Use Selected" button.
 
 **Step 6**
 
-A menu will appear with display options. 
+A menu will appear with display options.
 
 First, choose whether you want your image to display at full or half width.
 
 Next, add your alternative text. Alternative text isn’t a caption. It replaces the image for users who don’t see it. Users with screen readers will hear this text instead of seeing the image, and if the image doesn’t load for any reason, the alternative text will appear instead. Alternative text should provide the same information as the image, so be sure it clearly substitute for whatever the image conveys.
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%281%29.png)
 
 #### Step 6
 
 Your image should now be visible in your rich text field and will appear on the page when you save.
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%287%29.png)
 
 ## More on using images on Mass.gov
 

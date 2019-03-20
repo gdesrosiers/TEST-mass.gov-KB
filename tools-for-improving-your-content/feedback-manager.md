@@ -4,9 +4,9 @@
 
 The Feedback Manager is a Mass.gov authoring tool that helps you track and analyze user feedback on your content. This feedback comes from the survey at the bottom of every Mass.gov page:
 
-![](../.gitbook/assets/feedback_survey2_screenshot.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/feedback_survey2_screenshot.png)
 
-![Users see this survey at the bottom of every Mass.gov page](../.gitbook/assets/feedback_survey_screenshot.png)
+![Users see this survey at the bottom of every Mass.gov page](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/feedback_survey_screenshot.png)
 
 You’ll also be able to tag your content’s user feedback. Tagging feedback helps train our machine learning program on how your feedback should be organized and labeled. In the future, we’ll be able to use machine learning to automatically tag user feedback for you.
 

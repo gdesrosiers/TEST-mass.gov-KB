@@ -12,19 +12,19 @@ description: >-
 
 Click the “issues” tab in the menu at the top of the board.
 
-![](../../.gitbook/assets/feature-request-2.jpg)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/feature-request-2.jpg)
 
 ### Step 2
 
 Click the “new issue” button in the upper right, and then the “get started” button.
 
-![](../../.gitbook/assets/feature-request-4.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/feature-request-4.png)
 
-![](../../.gitbook/assets/feature-request-5.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/feature-request-5.png)
 
 ### Step 3
 
-Write up your feature request. Here are a few tips for creating effective write ups: 
+Write up your feature request. Here are a few tips for creating effective write ups:
 
 * Describe your problem or need 
 * Describe the solution that best addresses that problem or need 
@@ -32,14 +32,14 @@ Write up your feature request. Here are a few tips for creating effective write 
 * If you know we’re tracking a ticket internally \(with a number like DP-9999\), include the ticket number
 
 {% hint style="info" %}
-Check out some example tickets: 
+
+Check out some example tickets:
 
 * [Example ticket 1](https://github.com/massgov/feature-requests/issues/110)
 * [Example ticket 2](https://github.com/massgov/feature-requests/issues/113)
 * [Example ticket 3](https://github.com/massgov/feature-requests/issues/114)
 * [Example ticket 4](https://github.com/massgov/feature-requests/issues/115)
 * [Example ticket 5](https://github.com/massgov/feature-requests/issues/116)
-{% endhint %}
 
 ## Tips for describing your issue
 

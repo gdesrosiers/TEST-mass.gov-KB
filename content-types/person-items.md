@@ -2,7 +2,7 @@
 
 ## Summary
 
-A Person item can include information about an elected, officials, board members or other individuals affiliated with state government. The Person item can include an individual's name, photograph, organization, their role in government and any relevant biographical information. 
+A Person item can include information about an elected, officials, board members or other individuals affiliated with state government. The Person item can include an individual's name, photograph, organization, their role in government and any relevant biographical information.
 
 {% hint style="info" %}
 A Person item is not a standalone page: Users will only see it on your other content.
@@ -14,7 +14,7 @@ When you create a Person on Mass.gov, you’re creating a chunk of information t
 * **Media Contact** field on [News items ](news.md)\(news, speech, press release, and press statements\)
 * People and contacts subtype of [Curated Lists \(also called a directory\)](curated-lists/directory-people-and-contacts-subtype.md)
 
-If you've [published a biography](https://massgovdigital.gitbook.io/knowledge-base/~/drafts/-LLizpBV4SLEsR-KHcaS/primary/content-types/person-items#using-the-person-with-the-elected-official-subtype-of-organization-page) for the Person item you can also add it to the following fields:  
+If you've [published a biography](https://massgovdigital.gitbook.io/knowledge-base/~/drafts/-LLizpBV4SLEsR-KHcaS/primary/content-types/person-items#using-the-person-with-the-elected-official-subtype-of-organization-page) for the Person item you can also add it to the following fields:
 
 * **Referenced Sources** on Advisories and Rules of Court
 * **Quick Actions** on Location and [How-to](how-to-pages.md) Pages
@@ -44,7 +44,7 @@ This image will display at full size when you add a Person to the “Featured Bo
 
 This field is for the person’s secondary title \(in addition to their role on a board\). An example of when you would use this field is if the person holds an official title in state government, such as “secretary” or “governor.”
 
-Don’t add their board role here — you’ll do that on the Org Page. This will display as an “eyebrow” above the individual’s name.
+Don’t add their board role here — you’ll do that on the Org Page. This will display as an “eyebrow” above the individual’s name.
 
 ![](https://cdn-images-1.medium.com/max/800/0*Lm1AqbQOzusmsbGN)
 

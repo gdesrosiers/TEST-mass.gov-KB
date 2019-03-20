@@ -46,7 +46,7 @@ You’ll need to fill in at least one Organization Page in the **Organization\(s
 
 ### Pick your content
 
-You can add content to a Binder either 1 page at a time or in groups. This choice shapes the Binder’s table of contents. For example, if you use the **Add Page** option, your page will receive its own entry in the table of contents. If you use the **Add group** option, you’ll create a chunk of pages that live under a subtitle — the group **Name.** This subtitle then appears as an expandable option in your Binder’s table of content:
+You can add content to a Binder either 1 page at a time or in groups. This choice shapes the Binder’s table of contents. For example, if you use the **Add Page** option, your page will receive its own entry in the table of contents. If you use the **Add group** option, you’ll create a chunk of pages that live under a subtitle — the group **Name.** This subtitle then appears as an expandable option in your Binder’s table of content:
 
 ![](https://cdn-images-1.medium.com/max/800/0*kPabLZSXNO1SjQO-.)
 

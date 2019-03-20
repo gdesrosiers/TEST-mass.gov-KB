@@ -12,15 +12,14 @@ Fortunately, there are a few things you can do in the CMS to help constituents f
 
 ## Make sure it's the right content type
 
-The most basic thing you can do is make sure that you're using the right content type. For example, if you're using a Service Detail to publish news instead of a News item, your news won't appear when constituents choose the "News" filter. We've [listed what content types appear under each filtered search in   How search works](mass.gov-search.md#how-does-mass-gov-search-work).
+The most basic thing you can do is make sure that you're using the right content type. For example, if you're using a Service Detail to publish news instead of a News item, your news won't appear when constituents choose the "News" filter. We've [listed what content types appear under each filtered search in How search works](mass.gov-search.md#how-does-mass-gov-search-work).
 
 ## Organization\(s\)
 
 You’ll find the **Organization\(s\)** field at the bottom of the first tab in every Mass.gov content type, and in documents. This field tells Mass.gov’s search which pages belong to which organization. This is relevant whenever a constituent searches within an organization’s content using the filter to the left of the search bar:
 
-![](../../.gitbook/assets/image%20%2821%29.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/image%20%2821%29.png)
 
-  
 We've automatically populated the vast majority of **Organization\(s\)** across Mass.gov content. However, since this is such an important field, it’s a good idea to double check that the information in it is correct on your most important and most trafficked pages.
 
 The **Organization\(s\)** field also powers the "Offered by" relationship indicator \(the small green rectangle\(s\) in the upper left corner\) on each Mass.gov page. Making sure yours is right will help users who land on your content find their way to your Organization Page.
@@ -39,23 +38,20 @@ You should only add state organizations one level above yours. However, if that 
 
 To make use of the **Organization parent** field, you just need to know which organization is directly above yours in the Commonwealth’s hierarchy. We call the organization that is 1 level above yours the “parent organization,” and the one that is 2 levels above yours a “grandparent organization,” and so on. Here’s a visual:
 
-
-
 ![](https://lh6.googleusercontent.com/O99XDJkhBZNlJ5XOxbQnMSdWMNx-sYdpDji01D5r05c7vb7RIzDErClPddGs3d51HbRXAilICWgWSoNdkmMUev5Scr6U5RqP77ftvkD517xWvRNyer9a4OU8JjEaykSL-dawAHaF)
 
-  
-In the image: 
+In the image:
 
 * Secretariat is the “parent” of Departments A, B, and C. If authors at these Departments added Secretariat to each of their **Organization parent** fields, their content would appear in searches for Secretariat. 
 * Department B is the “parent” of Divisions A and B
 * Division B is the “parent” of Board A Secretariat is the “grandparent” of Division B 
 * Division B is the “grandparent” of Board A
 
-**Imagine that you work for Division B**. If you wanted your content to appear in searches for Department B’s content, you would: 
+**Imagine that you work for Division B**. If you wanted your content to appear in searches for Department B’s content, you would:
 
 1. Open your Organization Page in “edit.” 
 2. Find the Organization Parent field under the “more” tab.
-3.  Add Department B.
+3. Add Department B.
 
 If you _also_ wanted your content to appear in searches for Secretariat, you would need to ask Department B to add Secretariat to their Organization Page’s **Organization parent** field.
 

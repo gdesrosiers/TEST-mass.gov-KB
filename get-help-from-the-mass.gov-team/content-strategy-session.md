@@ -2,7 +2,7 @@
 
 ## Summary
 
-Want to improve your Mass.gov content? Need help with the CMS? Have questions about using the Analytics Dashboards \(Beta\)? Make an appointment for a content strategy session. 
+Want to improve your Mass.gov content? Need help with the CMS? Have questions about using the Analytics Dashboards \(Beta\)? Make an appointment for a content strategy session.
 
 The Digital Services team offers [in-person office hours](https://calendly.com/digital-services-office-hours/signup) to help you envision, develop, and improve your constituent-focused content. Instructions and best practices for using the latest authoring tools, like the Analytics Dashboards \(Beta\) and Feedback Manager, are also available during these sessions.
 

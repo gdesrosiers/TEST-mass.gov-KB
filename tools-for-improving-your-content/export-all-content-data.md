@@ -26,7 +26,7 @@ The downloadable file will include data from these 7 filters plus a link to the 
 
 After you’ve filtered your results, click the orange “CSV” button on the bottom left of the page:
 
-![](../.gitbook/assets/screencap_content-export.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/screencap_content-export.png)
 
 ### Step 3: Download
 

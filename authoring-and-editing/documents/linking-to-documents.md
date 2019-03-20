@@ -20,31 +20,29 @@ _\*On some content types, such as the Service Detail and the Information Detail,
 
 You can also add a document using the rich text editor. When users click this kind of rich text link, their document will download or display. They won’t be taken to a separate page. The link will also update whenever you replace the document. Here’s how it works:
 
-#### Step 1:
+### Step 1:
 
 Make sure your cursor is positioned where you want the link to appear. Don’t write any link text \(yet\).
 
 ![](https://cdn-images-1.medium.com/max/800/1*gGa1VKrr789e5gii50Zu6Q.png)
 
-#### Step 2:
+### Step 2:
 
 Click the “Insert Link to Document” button. Its icon is a document with a down arrow:
 
 ![](https://cdn-images-1.medium.com/max/800/1*bRQg4p1SpNiaCwzvmOXERg.png)
 
-#### 
-
 An interface will open that allows you to search for and select the document you want to link. You can select 1 document at a time.
 
 ![](https://cdn-images-1.medium.com/max/800/1*wxrnM1YfJAXEN9KxJFi-iw.png)
 
-#### Step 4:
+### Step 4:
 
 Scroll down to and click the “Select files” button. **Important**: when linking to documents this way, you can only select one at a time.
 
 ![](https://cdn-images-1.medium.com/max/800/1*NjihCmWUIK74EF3rexcp6g.png)
 
-#### Step 5:
+### Step 5:
 
 The link will appear on the page as the document title.
 
@@ -52,21 +50,21 @@ The link will appear on the page as the document title.
 
 You’ll probably want to change the name of the link so that it’s accessible and more intuitive for users. Here’s how you do that.
 
-#### Step 1:
+### Step 1:
 
 First, click the “source” button on the far right of the editor.
 
 ![](https://cdn-images-1.medium.com/max/800/1*cSxSv-M3INdb4dd98UouoA.png)
 
-#### Step 2:
+### Step 2:
 
 You’ll be shown the code that the editor generates. Next, you’ll need to find the link in the code. It will begin with an &lt;a href&gt; tag and end with an &lt;/a&gt; tag. You’ll know it’s the right link because the name of your document will appear between them:
 
 ![](https://cdn-images-1.medium.com/max/800/1*AKjS-75dHH2L2ETV67Zg_g.png)
 
-#### Step 3:
+### Step 3:
 
- Change the link text to whatever you’d like the link to read. This is a good time to think about how the link would sound if read aloud, as that’s how users with screen readers experience it. “Learn more about the migration” makes sense, but “click here” does not.
+Change the link text to whatever you’d like the link to read. This is a good time to think about how the link would sound if read aloud, as that’s how users with screen readers experience it. “Learn more about the migration” makes sense, but “click here” does not.
 
 ![](https://cdn-images-1.medium.com/max/800/1*JUCRiGKlOhfP42N8ehPM_Q.png)
 

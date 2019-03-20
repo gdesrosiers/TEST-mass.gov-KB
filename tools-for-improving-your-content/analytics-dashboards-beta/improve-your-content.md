@@ -14,9 +14,9 @@ Here you’ll see suggestions on how to improve your content and increase its ov
 
 Each section of the list is based on each of the content type's performance indicators.
 
-![](../../.gitbook/assets/dashboards-new-improve-your-content-1.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/dashboards-new-improve-your-content-1.png)
 
-![](../../.gitbook/assets/dashboards-new-improve-your-content-2.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/dashboards-new-improve-your-content-2.png)
 
 If you’re unsure about which next steps to take to improve your content, or you’ve worked through the checklist suggestions but still don’t see the improvements you expected, consider [signing up for Digital Services Office Hours](../../get-help-from-the-mass.gov-team/content-strategy-session.md).
 

@@ -4,9 +4,9 @@
 
 Use the **Featured Item Mosaic** to create a group \(or mosaic\) of 5 images that represent your organization, and that link to representative content. This resource shows you how to create a **Featured Item Mosaic.**
 
-The **Mosaic** will appear near the top of your Organization Page, between the **short description** and **Contact Information**. 
+The **Mosaic** will appear near the top of your Organization Page, between the **short description** and **Contact Information**.
 
-![The Featured Item Mosaic appears under the short description of your Organization Page ](../../.gitbook/assets/featured-item-mosaic_callout.png)
+![The Featured Item Mosaic appears under the short description of your Organization Page ](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/featured-item-mosaic_callout.png)
 
 ### What you’ll need
 
@@ -25,7 +25,7 @@ This mosaic is made of 3 pieces:
 * Links to other pages
 * Link text that tells users where links lead
 
-To create the best user experience, we recommend thinking about the relationships between these pieces. For example, it’s jarring to see an image that has nothing to do with where a link takes you. Make sure each item has a purpose — that is, that it’s not just for looks.
+To create the best user experience, we recommend thinking about the relationships between these pieces. For example, it’s jarring to see an image that has nothing to do with where a link takes you. Make sure each item has a purpose — that is, that it’s not just for looks.
 
 ### **Step \#1 : Add a “Featured” section**
 

@@ -46,7 +46,7 @@ In some cases, it will be better to enter Contact Information on How-tos, Servic
 
 ## Tasks and key info tab
 
-Service Pages offer 2 types of information: what you can do and what you need to know. When you work on this section, it can help to think about what the user will see: 
+Service Pages offer 2 types of information: what you can do and what you need to know. When you work on this section, it can help to think about what the user will see:
 
 ![](https://cdn-images-1.medium.com/max/1000/1*QLonLWfzfQpz7jCsQSP2Vg.jpeg)
 
@@ -68,17 +68,15 @@ This section’s title tells users that this is where they can find information.
 
 You can use the **map** tab to add relevant locations to your service. To do this, first create a Location content type, and then add it here. If you do not add any locations, the map won’t display when you publish. If you do add locations, Mass.gov [will generate a listing page like this one](https://www.mass.gov/visit-massachusetts-state-parks/locations) for your Service Page. Users will get to this listing page by clicking on the Location Details link:
 
-###  Location details button label
+### Location details button label
 
-Change the text that leads to your location listing from the generic “Location Details” to something more specific. 
+Change the text that leads to your location listing from the generic “Location Details” to something more specific.
 
 ### Location button short description
 
 Provide a summary or context for the locations. This will appear over the listing button:
 
 ![](https://lh4.googleusercontent.com/4m2QA01NkZCHftqXPxuT-iyD-zTEbnInfhDQ7bV3esG-yXxycaFH-nQ0pvlbAtz3fSu76meGEATqCX1kyNeUF2e1L2sBCcbbrw_lv8NCGuhHMqC56YTqhxDopd1e0RXHImgedArp)
-
-
 
 ## **Additional info**
 

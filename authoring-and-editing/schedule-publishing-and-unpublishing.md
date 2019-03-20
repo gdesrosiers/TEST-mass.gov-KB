@@ -23,7 +23,7 @@ Any documents you schedule will appear in the new "Scheduled: publish" and "Sche
 
 ### **Step 1: Open the scheduling options view**
 
-You’ll find a dropdown called **scheduling options** in the gray box on the right side of the editing interface. \(It doesn’t matter what content type you’re working in — the gray box is always in the same place.\) Click the arrow to open it.
+You’ll find a dropdown called **scheduling options** in the gray box on the right side of the editing interface. \(It doesn’t matter what content type you’re working in — the gray box is always in the same place.\) Click the arrow to open it.
 
 ![](https://cdn-images-1.medium.com/max/1000/1*4zbN0iqDypsaIDP2ltmf9w.jpeg)
 

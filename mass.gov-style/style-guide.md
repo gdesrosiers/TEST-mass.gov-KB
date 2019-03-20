@@ -42,7 +42,7 @@ Sometimes it isn’t possible to be crystal clear. Use common sense, trying to s
 
 ## Punctuation and capitalization
 
-**Commas**: For clarity, use the “Oxford” \(or serial\) comma — that is, add a comma after every item in a list, including the second-to-last one. Example: “I like the colors red, green, blue, and yellow.”
+**Commas**: For clarity, use the “Oxford” \(or serial\) comma — that is, add a comma after every item in a list, including the second-to-last one. Example: “I like the colors red, green, blue, and yellow.”
 
 **Semicolons**: Don’t use semicolons. They don’t belong in plain language writing.
 
@@ -50,11 +50,11 @@ Sometimes it isn’t possible to be crystal clear. Use common sense, trying to s
 
 **Dashes**: Hyphens are used to join two or more words as well as in phone numbers.
 
-Long dashes, or em-dashes \( — \), delineate a pause or insert an independent statement. Add a space on either side and don’t capitalize the first word after the em-dash. _Example:_ “Both are highly treatable if caught early — women who received a diagnosis early had a survival rate of 98.5 percent — which is why regular screenings are so important.”
+Long dashes, or em-dashes \( — \), delineate a pause or insert an independent statement. Add a space on either side and don’t capitalize the first word after the em-dash. _Example:_ “Both are highly treatable if caught early — women who received a diagnosis early had a survival rate of 98.5 percent — which is why regular screenings are so important.”
 
 **Slashes**: Avoid using the slash \(/\) symbol. Replace it with words or commas as appropriate.
 
-**Titles and headings**: Use sentence case whenever possible, including for titles and headings — it’s easier to scan and read lowercase words. That means capitalize the first word, but leave the rest of the title lowercase \(except for words that would normally be capitalized, like proper nouns\).
+**Titles and headings**: Use sentence case whenever possible, including for titles and headings — it’s easier to scan and read lowercase words. That means capitalize the first word, but leave the rest of the title lowercase \(except for words that would normally be capitalized, like proper nouns\).
 
 ## **Numbers**
 

@@ -59,25 +59,25 @@ The Analytics Dashboards \(Beta\) deliver clear, actionable information about ho
 
 No matter which content type you’re on, you’ll see the same Analytics tab in the top right corner of the page next to the Revisions tab:
 
-![](../../.gitbook/assets/file-for-unemployment-benefits-mass-gov.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/file-for-unemployment-benefits-mass-gov.png)
 
 Each tab will feature unique data and indicators that are used to produce your content’s overall score.
 
-![The overall tab from the Analytics Dashboard \(Beta\) shows a summary of all 4 scoring categories.](../../.gitbook/assets/analytics-mass-gov.png)
+![The overall tab from the Analytics Dashboard \(Beta\) shows a summary of all 4 scoring categories.](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/analytics-mass-gov.png)
 
-![The Findability tab breaks down where your users are, or aren&apos;t, coming from.](../../.gitbook/assets/dashboards-new-overview-3.png)
+![The Findability tab breaks down where your users are, or aren&apos;t, coming from.](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/dashboards-new-overview-3.png)
 
 ## Export your data from the dashboards
 
 All data displayed on tables or charts can be exported as a comma-separated values \(CSV\) file. To begin an export, hover your mouse over the top-right corner of a chart or table. You will see a little green table appear and the words “Export CSV” above it:
 
-![](../../.gitbook/assets/dashboards-new-intro-4.png)
+![](https://github.com/gdesrosiers/TEST-mass.gov-KB/tree/5bf119f2287d7e493534e6cae69bdd08c0869d39/.gitbook/assets/dashboards-new-intro-4.png)
 
 You can use this feature to dig deeper into your content’s performance. For example, identifying where most of your traffic is coming from and determining if there are pathways you didn’t expect to see, or ones that are missing.
 
 ## Watch the training webinar
 
-{% embed url="https://www.youtube.com/watch?v=5hLqskb0q8s" %}
+{% embed url="https://www.youtube.com/watch?v=5hLqskb0q8s" caption="" %}
 
 ## Was this article helpful?
 
