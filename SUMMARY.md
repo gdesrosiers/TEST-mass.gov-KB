@@ -35,6 +35,8 @@
   * [Editing toolbar](authoring-and-editing-1/navigating-the-cms/editing-toolbar.md)
   * [Trash](authoring-and-editing-1/navigating-the-cms/trash.md)
   * [Tables](authoring-and-editing-1/navigating-the-cms/tables.md)
+* [Billing organization](authoring-and-editing-1/billing-organization.md)
+* [Clone \(copy\) a page](authoring-and-editing-1/clone-copy-a-page.md)
 
 ## Content types <a id="content-types-1"></a>
 
