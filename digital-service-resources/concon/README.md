@@ -5,5 +5,5 @@ description: >-
   strategies for writing on Mass.gov.
 ---
 
-# ConCon
+# Mass.gov Content Conferences \(ConCon\)
 

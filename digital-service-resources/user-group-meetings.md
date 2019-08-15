@@ -4,5 +4,5 @@ description: >-
   and editors to connect and share best practices with one another.
 ---
 
-# User Group Meetings
+# Mass.gov User Group Meetings
 

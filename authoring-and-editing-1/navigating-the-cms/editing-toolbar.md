@@ -74,7 +74,7 @@ Add an image to your content. [Read a step-by-step resource about how to embed i
 
 ### 12. Table
 
-Create a table. After you create an empty table, use “tab” to navigate between cells. [Read a resource on creating clear, accessible tables.](tables.md)
+Create a table. After you create an empty table, use “tab” to navigate between cells. [Read a resource on creating clear, accessible tables.](../../files-or-media/tables.md)
 
 **Important:** Copying and pasting tables from elsewhere — word processing programs, for example — can create some formatting hiccups. It’s a good idea to create tables from scratch in the Mass.gov rich text editor.
 
