@@ -35,7 +35,7 @@ description: >-
 | [Editing toolbar](authoring-and-editing-1/navigating-the-cms/editing-toolbar.md) |  |
 | [Content preformance checklists](authoring-and-editing-1/style/content-performance-checklists/) |  |
 | [ServiceNow: Request support](digital-service-resources/get-help-from-the-mass.gov-team/servicenow-request-support-from-the-mass.gov-team.md) |  |
-| [CMS Tips](digital-service-resources/communications/cms-tips.md) |  |
+| [CMS Tips](digital-service-resources/communications/cms-tips/) |  |
 {% endtab %}
 {% endtabs %}
 

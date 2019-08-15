@@ -20,7 +20,9 @@
     * [Service checklist](authoring-and-editing-1/style/content-performance-checklists/content-performance-checklist-service.md)
     * [Service Detail checklist](authoring-and-editing-1/style/content-performance-checklists/content-performance-checklist-service-detail.md)
   * [Your Mass.gov audience](authoring-and-editing-1/style/writing-for-your-mass.gov-audience.md)
-  * [Linking best practices](authoring-and-editing-1/style/linking-best-practices.md)
+  * [Linking best practices](authoring-and-editing-1/style/linking-best-practices/README.md)
+    * [Adding links to autocomplete fields](authoring-and-editing-1/style/linking-best-practices/adding-links-to-autocomplete-fields.md)
+    * [Adding inline links](authoring-and-editing-1/style/linking-best-practices/adding-inline-links.md)
 * [Strategy](authoring-and-editing-1/strategy/README.md)
   * [Converting from 1 content type to another](authoring-and-editing-1/strategy/converting-from-1-content-type-to-another.md)
   * [Editorial must-haves list](authoring-and-editing-1/strategy/editorial-must-haves-list.md)
@@ -41,7 +43,10 @@
   * [Billing organization](authoring-and-editing-1/navigating-the-cms/billing-organization.md)
   * [Clone \(copy\) a page](authoring-and-editing-1/navigating-the-cms/clone-copy-a-page.md)
   * [Contacting authors in the CMS](authoring-and-editing-1/navigating-the-cms/contacting-authors-in-the-cms.md)
-  * [Content moderation](authoring-and-editing-1/navigating-the-cms/content-moderation.md)
+  * [Content moderation](authoring-and-editing-1/navigating-the-cms/content-moderation/README.md)
+    * [Layers on content moderation](authoring-and-editing-1/navigating-the-cms/content-moderation/layers-on-content-moderation.md)
+    * [Stages of content moderation when creating a page](authoring-and-editing-1/navigating-the-cms/content-moderation/stages-of-content-moderation-when-creating-a-page.md)
+    * [Stages of content moderation when editing a page](authoring-and-editing-1/navigating-the-cms/content-moderation/stages-of-content-moderation-when-editing-a-page.md)
 
 ## Content types <a id="content-types-1"></a>
 
@@ -120,12 +125,11 @@
 
 * [Communications](digital-service-resources/communications/README.md)
   * [CMS status updates](digital-service-resources/communications/cms-issue-updates.md)
-  * [CMS tip of the week](digital-service-resources/communications/cms-tips.md)
-  * [Product announcements](digital-service-resources/communications/product-announcements.md)
+  * [CMS tip of the week](digital-service-resources/communications/cms-tips/README.md)
+    * [Mass.gov release notes](digital-service-resources/communications/cms-tips/mass.gov-release-notes.md)
   * [Newsletters](digital-service-resources/communications/newsletters/README.md)
     * [2018 Newsletters](digital-service-resources/communications/newsletters/2018-newsletters.md)
     * [2017 Newsletters](digital-service-resources/communications/newsletters/2017-newsletters.md)
-* [Mass.gov release notes](digital-service-resources/mass.gov-release-notes.md)
 * [Get help from the Mass.gov team](digital-service-resources/get-help-from-the-mass.gov-team/README.md)
   * [Digital Services Office Hours](digital-service-resources/get-help-from-the-mass.gov-team/content-strategy-session.md)
   * [Mass.gov Feature Request board](digital-service-resources/get-help-from-the-mass.gov-team/mass.gov-feature-request-board/README.md)
